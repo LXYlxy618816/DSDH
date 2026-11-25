@@ -1,0 +1,1219 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodified="2026-11-25" creator="班级社交网络" description="43人阈值16的关系网" />
+  <graph mode="static" defaultedgetype="undirected" idtype="string">
+    <attributes class="node">
+      <attribute id="d_major" title="主方向" type="string" />
+      <attribute id="d_home" title="生源地" type="string" />
+      <attribute id="d_mbti" title="MBTI" type="string" />
+      <attribute id="d_deg" title="直接联系人数" type="int" />
+    </attributes>
+    <nodes>
+      <node id="娄贺鑫" label="娄贺鑫">
+        <attvalues />
+        <color r="24" g="95" b="165" a="0.95" />
+        <size value="25.17" />
+        <position x="507.66" y="202.53" z="0" />
+      </node>
+      <node id="陈晨" label="陈晨">
+        <attvalues />
+        <color r="24" g="95" b="165" a="0.95" />
+        <size value="23.07" />
+        <position x="453.32" y="230.82" z="0" />
+      </node>
+      <node id="唐晓妍" label="唐晓妍">
+        <attvalues />
+        <color r="24" g="95" b="165" a="0.95" />
+        <size value="24.18" />
+        <position x="488.53" y="153.2" z="0" />
+      </node>
+      <node id="宋邢遥" label="宋邢遥">
+        <attvalues />
+        <color r="75" g="98" b="128" a="0.95" />
+        <size value="26.07" />
+        <position x="652.58" y="453.84" z="0" />
+      </node>
+      <node id="李如清" label="李如清">
+        <attvalues />
+        <color r="166" g="58" b="42" a="0.95" />
+        <size value="23.07" />
+        <position x="362.74" y="453.84" z="0" />
+      </node>
+      <node id="张继元" label="张继元">
+        <attvalues />
+        <color r="166" g="58" b="42" a="0.95" />
+        <size value="27.64" />
+        <position x="308.4" y="482.13" z="0" />
+      </node>
+      <node id="李文涵" label="李文涵">
+        <attvalues />
+        <color r="166" g="58" b="42" a="0.95" />
+        <size value="21.81" />
+        <position x="343.6" y="404.51" z="0" />
+      </node>
+      <node id="赵兴昊" label="赵兴昊">
+        <attvalues />
+        <color r="75" g="98" b="128" a="0.95" />
+        <size value="24.18" />
+        <position x="598.24" y="482.13" z="0" />
+      </node>
+      <node id="于子轩" label="于子轩">
+        <attvalues />
+        <color r="166" g="58" b="42" a="0.95" />
+        <size value="38.0" />
+        <position x="372.98" y="497.78" z="0" />
+      </node>
+      <node id="刘贤贇" label="刘贤贇">
+        <attvalues />
+        <color r="24" g="95" b="165" a="0.95" />
+        <size value="38.0" />
+        <position x="517.9" y="246.47" z="0" />
+      </node>
+      <node id="顾婧怡" label="顾婧怡">
+        <attvalues />
+        <color r="166" g="58" b="42" a="0.95" />
+        <size value="36.71" />
+        <position x="279.89" y="443.35" z="0" />
+      </node>
+      <node id="方李" label="方李">
+        <attvalues />
+        <color r="24" g="95" b="165" a="0.95" />
+        <size value="25.17" />
+        <position x="507.66" y="202.53" z="0" />
+      </node>
+      <node id="冯海花" label="冯海花">
+        <attvalues />
+        <color r="47" g="93" b="80" a="0.95" />
+        <size value="26.89" />
+        <position x="752.27" y="370.07" z="0" />
+      </node>
+      <node id="占磊" label="占磊">
+        <attvalues />
+        <color r="138" g="90" b="27" a="0.95" />
+        <size value="20.36" />
+        <position x="672.07" y="615.01" z="0" />
+      </node>
+      <node id="郭扬扬" label="郭扬扬">
+        <attvalues />
+        <color r="107" g="91" b="149" a="0.95" />
+        <size value="8" />
+        <position x="399.82" y="684.46" z="0" />
+      </node>
+      <node id="蒋庆霞" label="蒋庆霞">
+        <attvalues />
+        <color r="24" g="95" b="165" a="0.95" />
+        <size value="21.81" />
+        <position x="424.81" y="192.04" z="0" />
+      </node>
+      <node id="许文杰" label="许文杰">
+        <attvalues />
+        <color r="138" g="90" b="27" a="0.95" />
+        <size value="18.64" />
+        <position x="174.03" y="315.28" z="0" />
+      </node>
+      <node id="彭星蕊" label="彭星蕊">
+        <attvalues />
+        <color r="24" g="95" b="165" a="0.95" />
+        <size value="24.18" />
+        <position x="538.75" y="167.8" z="0" />
+      </node>
+      <node id="张薛蓉" label="张薛蓉">
+        <attvalues />
+        <color r="166" g="58" b="42" a="0.95" />
+        <size value="16.53" />
+        <position x="393.83" y="419.11" z="0" />
+      </node>
+      <node id="李卓柯" label="李卓柯">
+        <attvalues />
+        <color r="47" g="93" b="80" a="0.95" />
+        <size value="20.36" />
+        <position x="269.26" y="567.0" z="0" />
+      </node>
+      <node id="吴亿玮" label="吴亿玮">
+        <attvalues />
+        <color r="24" g="95" b="165" a="0.95" />
+        <size value="33.81" />
+        <position x="798.38" y="484.62" z="0" />
+      </node>
+      <node id="岳非" label="岳非">
+        <attvalues />
+        <color r="166" g="58" b="42" a="0.95" />
+        <size value="37.25" />
+        <position x="321.5" y="520.09" z="0" />
+      </node>
+      <node id="刘一丹" label="刘一丹">
+        <attvalues />
+        <color r="107" g="91" b="149" a="0.95" />
+        <size value="30.71" />
+        <position x="331.92" y="77.17" z="0" />
+      </node>
+      <node id="周梦菲" label="周梦菲">
+        <attvalues />
+        <color r="47" g="93" b="80" a="0.95" />
+        <size value="20.36" />
+        <position x="171.45" y="499.38" z="0" />
+      </node>
+      <node id="熊静婷" label="熊静婷">
+        <attvalues />
+        <color r="75" g="98" b="128" a="0.95" />
+        <size value="26.89" />
+        <position x="633.45" y="404.51" z="0" />
+      </node>
+      <node id="邱芷霖" label="邱芷霖">
+        <attvalues />
+        <color r="166" g="58" b="42" a="0.95" />
+        <size value="18.64" />
+        <position x="305.97" y="389.76" z="0" />
+      </node>
+      <node id="莫洋欣蕊" label="莫洋欣蕊">
+        <attvalues />
+        <color r="24" g="95" b="165" a="0.95" />
+        <size value="8" />
+        <position x="453.32" y="230.82" z="0" />
+      </node>
+      <node id="袁帅" label="袁帅">
+        <attvalues />
+        <color r="75" g="98" b="128" a="0.95" />
+        <size value="28.99" />
+        <position x="587.94" y="700.0" z="0" />
+      </node>
+      <node id="潘昕予" label="潘昕予">
+        <attvalues />
+        <color r="24" g="95" b="165" a="0.95" />
+        <size value="23.07" />
+        <position x="466.42" y="268.78" z="0" />
+      </node>
+      <node id="许昊妍" label="许昊妍">
+        <attvalues />
+        <color r="47" g="93" b="80" a="0.95" />
+        <size value="30.17" />
+        <position x="510.5" y="69.98" z="0" />
+      </node>
+      <node id="丁奕" label="丁奕">
+        <attvalues />
+        <color r="138" g="90" b="27" a="0.95" />
+        <size value="20.36" />
+        <position x="754.58" y="197.95" z="0" />
+      </node>
+      <node id="王泽琳" label="王泽琳">
+        <attvalues />
+        <color r="166" g="58" b="42" a="0.95" />
+        <size value="28.99" />
+        <position x="410.29" y="479.73" z="0" />
+      </node>
+      <node id="刘赞文" label="刘赞文">
+        <attvalues />
+        <color r="24" g="95" b="165" a="0.95" />
+        <size value="16.53" />
+        <position x="450.89" y="138.45" z="0" />
+      </node>
+      <node id="许靖雯" label="许靖雯">
+        <attvalues />
+        <color r="75" g="98" b="128" a="0.95" />
+        <size value="23.07" />
+        <position x="181.84" y="195.15" z="0" />
+      </node>
+      <node id="刘学颐" label="刘学颐">
+        <attvalues />
+        <color r="47" g="93" b="80" a="0.95" />
+        <size value="26.07" />
+        <position x="629.06" y="60.0" z="0" />
+      </node>
+      <node id="王音奇" label="王音奇">
+        <attvalues />
+        <color r="24" g="95" b="165" a="0.95" />
+        <size value="26.89" />
+        <position x="555.21" y="228.42" z="0" />
+      </node>
+      <node id="高橙" label="高橙">
+        <attvalues />
+        <color r="24" g="95" b="165" a="0.95" />
+        <size value="18.64" />
+        <position x="488.53" y="153.2" z="0" />
+      </node>
+      <node id="董慧鑫" label="董慧鑫">
+        <attvalues />
+        <color r="24" g="95" b="165" a="0.95" />
+        <size value="10.0" />
+        <position x="517.9" y="246.47" z="0" />
+      </node>
+      <node id="尹一凡" label="尹一凡">
+        <attvalues />
+        <color r="75" g="98" b="128" a="0.95" />
+        <size value="30.17" />
+        <position x="662.83" y="497.78" z="0" />
+      </node>
+      <node id="屠媛媛" label="屠媛媛">
+        <attvalues />
+        <color r="24" g="95" b="165" a="0.95" />
+        <size value="33.81" />
+        <position x="411.43" y="232.61" z="0" />
+      </node>
+      <node id="潘泽鑫" label="潘泽鑫">
+        <attvalues />
+        <color r="75" g="98" b="128" a="0.95" />
+        <size value="13.82" />
+        <position x="828.55" y="294.07" z="0" />
+      </node>
+      <node id="滕巍" label="滕巍">
+        <attvalues />
+        <color r="24" g="95" b="165" a="0.95" />
+        <size value="28.34" />
+        <position x="424.81" y="192.04" z="0" />
+      </node>
+      <node id="朱紫怡" label="朱紫怡">
+        <attvalues />
+        <color r="166" g="58" b="42" a="0.95" />
+        <size value="13.82" />
+        <position x="266.51" y="483.92" z="0" />
+      </node>
+    </nodes>
+    <edges>
+      <edge id="e0" source="于子轩" target="岳非" weight="61.8">
+        <color r="120" g="115" b="100" a="0.85" />
+        <thickness value="4.6" />
+      </edge>
+      <edge id="e1" source="顾婧怡" target="岳非" weight="57.5">
+        <color r="120" g="115" b="100" a="0.812" />
+        <thickness value="4.32" />
+      </edge>
+      <edge id="e2" source="刘贤贇" target="顾婧怡" weight="52.8">
+        <color r="120" g="115" b="100" a="0.77" />
+        <thickness value="4.02" />
+      </edge>
+      <edge id="e3" source="于子轩" target="顾婧怡" weight="51.3">
+        <color r="120" g="115" b="100" a="0.757" />
+        <thickness value="3.92" />
+      </edge>
+      <edge id="e4" source="于子轩" target="刘贤贇" weight="50.8">
+        <color r="120" g="115" b="100" a="0.752" />
+        <thickness value="3.89" />
+      </edge>
+      <edge id="e5" source="于子轩" target="许昊妍" weight="45.5">
+        <color r="120" g="115" b="100" a="0.705" />
+        <thickness value="3.54" />
+      </edge>
+      <edge id="e6" source="刘贤贇" target="岳非" weight="45.5">
+        <color r="120" g="115" b="100" a="0.705" />
+        <thickness value="3.54" />
+      </edge>
+      <edge id="e7" source="刘贤贇" target="尹一凡" weight="39.7">
+        <color r="120" g="115" b="100" a="0.653" />
+        <thickness value="3.17" />
+      </edge>
+      <edge id="e8" source="岳非" target="许昊妍" weight="39.0">
+        <color r="120" g="115" b="100" a="0.647" />
+        <thickness value="3.12" />
+      </edge>
+      <edge id="e9" source="于子轩" target="吴亿玮" weight="37.1">
+        <color r="120" g="115" b="100" a="0.63" />
+        <thickness value="3.0" />
+      </edge>
+      <edge id="e10" source="顾婧怡" target="刘一丹" weight="37.1">
+        <color r="120" g="115" b="100" a="0.63" />
+        <thickness value="3.0" />
+      </edge>
+      <edge id="e11" source="顾婧怡" target="屠媛媛" weight="36.0">
+        <color r="120" g="115" b="100" a="0.62" />
+        <thickness value="2.93" />
+      </edge>
+      <edge id="e12" source="于子轩" target="屠媛媛" weight="35.6">
+        <color r="120" g="115" b="100" a="0.617" />
+        <thickness value="2.9" />
+      </edge>
+      <edge id="e13" source="刘贤贇" target="屠媛媛" weight="35.5">
+        <color r="120" g="115" b="100" a="0.616" />
+        <thickness value="2.9" />
+      </edge>
+      <edge id="e14" source="张继元" target="岳非" weight="35.1">
+        <color r="120" g="115" b="100" a="0.612" />
+        <thickness value="2.87" />
+      </edge>
+      <edge id="e15" source="刘贤贇" target="许昊妍" weight="35.0">
+        <color r="120" g="115" b="100" a="0.611" />
+        <thickness value="2.87" />
+      </edge>
+      <edge id="e16" source="岳非" target="屠媛媛" weight="34.8">
+        <color r="120" g="115" b="100" a="0.61" />
+        <thickness value="2.85" />
+      </edge>
+      <edge id="e17" source="张继元" target="于子轩" weight="33.4">
+        <color r="120" g="115" b="100" a="0.597" />
+        <thickness value="2.76" />
+      </edge>
+      <edge id="e18" source="顾婧怡" target="冯海花" weight="33.2">
+        <color r="120" g="115" b="100" a="0.595" />
+        <thickness value="2.75" />
+      </edge>
+      <edge id="e19" source="于子轩" target="刘一丹" weight="32.9">
+        <color r="120" g="115" b="100" a="0.593" />
+        <thickness value="2.73" />
+      </edge>
+      <edge id="e20" source="顾婧怡" target="许昊妍" weight="32.5">
+        <color r="120" g="115" b="100" a="0.589" />
+        <thickness value="2.7" />
+      </edge>
+      <edge id="e21" source="岳非" target="王泽琳" weight="32.3">
+        <color r="120" g="115" b="100" a="0.587" />
+        <thickness value="2.69" />
+      </edge>
+      <edge id="e22" source="刘贤贇" target="刘一丹" weight="32.1">
+        <color r="120" g="115" b="100" a="0.586" />
+        <thickness value="2.68" />
+      </edge>
+      <edge id="e23" source="于子轩" target="冯海花" weight="31.4">
+        <color r="120" g="115" b="100" a="0.579" />
+        <thickness value="2.63" />
+      </edge>
+      <edge id="e24" source="岳非" target="刘一丹" weight="31.1">
+        <color r="120" g="115" b="100" a="0.577" />
+        <thickness value="2.61" />
+      </edge>
+      <edge id="e25" source="于子轩" target="袁帅" weight="30.5">
+        <color r="120" g="115" b="100" a="0.571" />
+        <thickness value="2.57" />
+      </edge>
+      <edge id="e26" source="岳非" target="滕巍" weight="30.4">
+        <color r="120" g="115" b="100" a="0.571" />
+        <thickness value="2.57" />
+      </edge>
+      <edge id="e27" source="唐晓妍" target="刘贤贇" weight="30.1">
+        <color r="120" g="115" b="100" a="0.568" />
+        <thickness value="2.55" />
+      </edge>
+      <edge id="e28" source="于子轩" target="尹一凡" weight="29.9">
+        <color r="120" g="115" b="100" a="0.566" />
+        <thickness value="2.54" />
+      </edge>
+      <edge id="e29" source="赵兴昊" target="于子轩" weight="29.7">
+        <color r="120" g="115" b="100" a="0.564" />
+        <thickness value="2.52" />
+      </edge>
+      <edge id="e30" source="刘贤贇" target="熊静婷" weight="29.4">
+        <color r="120" g="115" b="100" a="0.562" />
+        <thickness value="2.5" />
+      </edge>
+      <edge id="e31" source="张继元" target="许昊妍" weight="29.1">
+        <color r="120" g="115" b="100" a="0.559" />
+        <thickness value="2.48" />
+      </edge>
+      <edge id="e32" source="刘贤贇" target="王音奇" weight="28.9">
+        <color r="120" g="115" b="100" a="0.557" />
+        <thickness value="2.47" />
+      </edge>
+      <edge id="e33" source="赵兴昊" target="刘贤贇" weight="28.6">
+        <color r="120" g="115" b="100" a="0.555" />
+        <thickness value="2.45" />
+      </edge>
+      <edge id="e34" source="刘贤贇" target="滕巍" weight="28.4">
+        <color r="120" g="115" b="100" a="0.553" />
+        <thickness value="2.44" />
+      </edge>
+      <edge id="e35" source="顾婧怡" target="尹一凡" weight="28.2">
+        <color r="120" g="115" b="100" a="0.551" />
+        <thickness value="2.43" />
+      </edge>
+      <edge id="e36" source="于子轩" target="刘学颐" weight="28.1">
+        <color r="120" g="115" b="100" a="0.55" />
+        <thickness value="2.42" />
+      </edge>
+      <edge id="e37" source="顾婧怡" target="滕巍" weight="27.7">
+        <color r="120" g="115" b="100" a="0.547" />
+        <thickness value="2.39" />
+      </edge>
+      <edge id="e38" source="娄贺鑫" target="于子轩" weight="27.6">
+        <color r="120" g="115" b="100" a="0.546" />
+        <thickness value="2.39" />
+      </edge>
+      <edge id="e39" source="刘贤贇" target="彭星蕊" weight="27.5">
+        <color r="120" g="115" b="100" a="0.545" />
+        <thickness value="2.38" />
+      </edge>
+      <edge id="e40" source="刘贤贇" target="王泽琳" weight="27.5">
+        <color r="120" g="115" b="100" a="0.545" />
+        <thickness value="2.38" />
+      </edge>
+      <edge id="e41" source="岳非" target="尹一凡" weight="27.4">
+        <color r="120" g="115" b="100" a="0.544" />
+        <thickness value="2.37" />
+      </edge>
+      <edge id="e42" source="刘贤贇" target="冯海花" weight="27.2">
+        <color r="120" g="115" b="100" a="0.542" />
+        <thickness value="2.36" />
+      </edge>
+      <edge id="e43" source="赵兴昊" target="顾婧怡" weight="27.1">
+        <color r="120" g="115" b="100" a="0.541" />
+        <thickness value="2.35" />
+      </edge>
+      <edge id="e44" source="吴亿玮" target="岳非" weight="27.1">
+        <color r="120" g="115" b="100" a="0.541" />
+        <thickness value="2.35" />
+      </edge>
+      <edge id="e45" source="刘贤贇" target="蒋庆霞" weight="26.9">
+        <color r="120" g="115" b="100" a="0.539" />
+        <thickness value="2.34" />
+      </edge>
+      <edge id="e46" source="顾婧怡" target="袁帅" weight="26.6">
+        <color r="120" g="115" b="100" a="0.537" />
+        <thickness value="2.32" />
+      </edge>
+      <edge id="e47" source="于子轩" target="方李" weight="26.5">
+        <color r="120" g="115" b="100" a="0.536" />
+        <thickness value="2.32" />
+      </edge>
+      <edge id="e48" source="岳非" target="袁帅" weight="26.5">
+        <color r="120" g="115" b="100" a="0.536" />
+        <thickness value="2.32" />
+      </edge>
+      <edge id="e49" source="娄贺鑫" target="刘贤贇" weight="26.4">
+        <color r="120" g="115" b="100" a="0.535" />
+        <thickness value="2.31" />
+      </edge>
+      <edge id="e50" source="刘贤贇" target="吴亿玮" weight="26.2">
+        <color r="120" g="115" b="100" a="0.533" />
+        <thickness value="2.3" />
+      </edge>
+      <edge id="e51" source="许昊妍" target="屠媛媛" weight="26.0">
+        <color r="120" g="115" b="100" a="0.531" />
+        <thickness value="2.28" />
+      </edge>
+      <edge id="e52" source="于子轩" target="熊静婷" weight="25.9">
+        <color r="120" g="115" b="100" a="0.531" />
+        <thickness value="2.28" />
+      </edge>
+      <edge id="e53" source="李如清" target="岳非" weight="25.8">
+        <color r="120" g="115" b="100" a="0.53" />
+        <thickness value="2.27" />
+      </edge>
+      <edge id="e54" source="顾婧怡" target="方李" weight="25.8">
+        <color r="120" g="115" b="100" a="0.53" />
+        <thickness value="2.27" />
+      </edge>
+      <edge id="e55" source="于子轩" target="潘昕予" weight="25.4">
+        <color r="120" g="115" b="100" a="0.526" />
+        <thickness value="2.24" />
+      </edge>
+      <edge id="e56" source="于子轩" target="滕巍" weight="25.4">
+        <color r="120" g="115" b="100" a="0.526" />
+        <thickness value="2.24" />
+      </edge>
+      <edge id="e57" source="吴亿玮" target="屠媛媛" weight="25.4">
+        <color r="120" g="115" b="100" a="0.526" />
+        <thickness value="2.24" />
+      </edge>
+      <edge id="e58" source="袁帅" target="屠媛媛" weight="25.3">
+        <color r="120" g="115" b="100" a="0.525" />
+        <thickness value="2.24" />
+      </edge>
+      <edge id="e59" source="陈晨" target="于子轩" weight="25.2">
+        <color r="120" g="115" b="100" a="0.524" />
+        <thickness value="2.23" />
+      </edge>
+      <edge id="e60" source="于子轩" target="许文杰" weight="25.2">
+        <color r="120" g="115" b="100" a="0.524" />
+        <thickness value="2.23" />
+      </edge>
+      <edge id="e61" source="顾婧怡" target="许靖雯" weight="25.1">
+        <color r="120" g="115" b="100" a="0.523" />
+        <thickness value="2.22" />
+      </edge>
+      <edge id="e62" source="于子轩" target="许靖雯" weight="24.9">
+        <color r="120" g="115" b="100" a="0.522" />
+        <thickness value="2.21" />
+      </edge>
+      <edge id="e63" source="陈晨" target="刘贤贇" weight="24.7">
+        <color r="120" g="115" b="100" a="0.52" />
+        <thickness value="2.2" />
+      </edge>
+      <edge id="e64" source="冯海花" target="岳非" weight="24.6">
+        <color r="120" g="115" b="100" a="0.519" />
+        <thickness value="2.19" />
+      </edge>
+      <edge id="e65" source="顾婧怡" target="王泽琳" weight="24.5">
+        <color r="120" g="115" b="100" a="0.518" />
+        <thickness value="2.19" />
+      </edge>
+      <edge id="e66" source="李如清" target="于子轩" weight="24.4">
+        <color r="120" g="115" b="100" a="0.517" />
+        <thickness value="2.18" />
+      </edge>
+      <edge id="e67" source="于子轩" target="周梦菲" weight="24.4">
+        <color r="120" g="115" b="100" a="0.517" />
+        <thickness value="2.18" />
+      </edge>
+      <edge id="e68" source="屠媛媛" target="滕巍" weight="24.4">
+        <color r="120" g="115" b="100" a="0.517" />
+        <thickness value="2.18" />
+      </edge>
+      <edge id="e69" source="张继元" target="顾婧怡" weight="24.2">
+        <color r="120" g="115" b="100" a="0.515" />
+        <thickness value="2.17" />
+      </edge>
+      <edge id="e70" source="顾婧怡" target="吴亿玮" weight="24.2">
+        <color r="120" g="115" b="100" a="0.515" />
+        <thickness value="2.17" />
+      </edge>
+      <edge id="e71" source="娄贺鑫" target="屠媛媛" weight="24.1">
+        <color r="120" g="115" b="100" a="0.514" />
+        <thickness value="2.16" />
+      </edge>
+      <edge id="e72" source="刘贤贇" target="袁帅" weight="24.1">
+        <color r="120" g="115" b="100" a="0.514" />
+        <thickness value="2.16" />
+      </edge>
+      <edge id="e73" source="冯海花" target="刘一丹" weight="23.8">
+        <color r="120" g="115" b="100" a="0.512" />
+        <thickness value="2.14" />
+      </edge>
+      <edge id="e74" source="岳非" target="刘学颐" weight="23.8">
+        <color r="120" g="115" b="100" a="0.512" />
+        <thickness value="2.14" />
+      </edge>
+      <edge id="e75" source="宋邢遥" target="于子轩" weight="23.3">
+        <color r="120" g="115" b="100" a="0.507" />
+        <thickness value="2.11" />
+      </edge>
+      <edge id="e76" source="宋邢遥" target="刘贤贇" weight="23.1">
+        <color r="120" g="115" b="100" a="0.506" />
+        <thickness value="2.1" />
+      </edge>
+      <edge id="e77" source="刘一丹" target="王泽琳" weight="23.1">
+        <color r="120" g="115" b="100" a="0.506" />
+        <thickness value="2.1" />
+      </edge>
+      <edge id="e78" source="李文涵" target="岳非" weight="23.0">
+        <color r="120" g="115" b="100" a="0.505" />
+        <thickness value="2.09" />
+      </edge>
+      <edge id="e79" source="顾婧怡" target="李卓柯" weight="23.0">
+        <color r="120" g="115" b="100" a="0.505" />
+        <thickness value="2.09" />
+      </edge>
+      <edge id="e80" source="唐晓妍" target="于子轩" weight="22.9">
+        <color r="120" g="115" b="100" a="0.504" />
+        <thickness value="2.08" />
+      </edge>
+      <edge id="e81" source="于子轩" target="王音奇" weight="22.9">
+        <color r="120" g="115" b="100" a="0.504" />
+        <thickness value="2.08" />
+      </edge>
+      <edge id="e82" source="李卓柯" target="岳非" weight="22.9">
+        <color r="120" g="115" b="100" a="0.504" />
+        <thickness value="2.08" />
+      </edge>
+      <edge id="e83" source="岳非" target="许靖雯" weight="22.9">
+        <color r="120" g="115" b="100" a="0.504" />
+        <thickness value="2.08" />
+      </edge>
+      <edge id="e84" source="刘贤贇" target="方李" weight="22.8">
+        <color r="120" g="115" b="100" a="0.503" />
+        <thickness value="2.08" />
+      </edge>
+      <edge id="e85" source="刘贤贇" target="刘赞文" weight="22.6">
+        <color r="120" g="115" b="100" a="0.501" />
+        <thickness value="2.06" />
+      </edge>
+      <edge id="e86" source="冯海花" target="王泽琳" weight="22.1">
+        <color r="120" g="115" b="100" a="0.497" />
+        <thickness value="2.03" />
+      </edge>
+      <edge id="e87" source="吴亿玮" target="刘学颐" weight="22.1">
+        <color r="120" g="115" b="100" a="0.497" />
+        <thickness value="2.03" />
+      </edge>
+      <edge id="e88" source="刘一丹" target="屠媛媛" weight="22.1">
+        <color r="120" g="115" b="100" a="0.497" />
+        <thickness value="2.03" />
+      </edge>
+      <edge id="e89" source="岳非" target="丁奕" weight="22.0">
+        <color r="120" g="115" b="100" a="0.496" />
+        <thickness value="2.02" />
+      </edge>
+      <edge id="e90" source="赵兴昊" target="岳非" weight="21.9">
+        <color r="120" g="115" b="100" a="0.495" />
+        <thickness value="2.02" />
+      </edge>
+      <edge id="e91" source="尹一凡" target="屠媛媛" weight="21.9">
+        <color r="120" g="115" b="100" a="0.495" />
+        <thickness value="2.02" />
+      </edge>
+      <edge id="e92" source="于子轩" target="王泽琳" weight="21.8">
+        <color r="120" g="115" b="100" a="0.494" />
+        <thickness value="2.01" />
+      </edge>
+      <edge id="e93" source="张继元" target="刘贤贇" weight="21.7">
+        <color r="120" g="115" b="100" a="0.493" />
+        <thickness value="2.0" />
+      </edge>
+      <edge id="e94" source="于子轩" target="张薛蓉" weight="21.7">
+        <color r="120" g="115" b="100" a="0.493" />
+        <thickness value="2.0" />
+      </edge>
+      <edge id="e95" source="唐晓妍" target="屠媛媛" weight="21.6">
+        <color r="120" g="115" b="100" a="0.492" />
+        <thickness value="2.0" />
+      </edge>
+      <edge id="e96" source="岳非" target="周梦菲" weight="21.6">
+        <color r="120" g="115" b="100" a="0.492" />
+        <thickness value="2.0" />
+      </edge>
+      <edge id="e97" source="岳非" target="潘昕予" weight="21.6">
+        <color r="120" g="115" b="100" a="0.492" />
+        <thickness value="2.0" />
+      </edge>
+      <edge id="e98" source="顾婧怡" target="王音奇" weight="21.4">
+        <color r="120" g="115" b="100" a="0.49" />
+        <thickness value="1.99" />
+      </edge>
+      <edge id="e99" source="李文涵" target="于子轩" weight="21.3">
+        <color r="120" g="115" b="100" a="0.49" />
+        <thickness value="1.98" />
+      </edge>
+      <edge id="e100" source="刘一丹" target="滕巍" weight="21.3">
+        <color r="120" g="115" b="100" a="0.49" />
+        <thickness value="1.98" />
+      </edge>
+      <edge id="e101" source="唐晓妍" target="顾婧怡" weight="21.1">
+        <color r="120" g="115" b="100" a="0.488" />
+        <thickness value="1.97" />
+      </edge>
+      <edge id="e102" source="宋邢遥" target="顾婧怡" weight="21.1">
+        <color r="120" g="115" b="100" a="0.488" />
+        <thickness value="1.97" />
+      </edge>
+      <edge id="e103" source="冯海花" target="许昊妍" weight="21.1">
+        <color r="120" g="115" b="100" a="0.488" />
+        <thickness value="1.97" />
+      </edge>
+      <edge id="e104" source="占磊" target="岳非" weight="21.1">
+        <color r="120" g="115" b="100" a="0.488" />
+        <thickness value="1.97" />
+      </edge>
+      <edge id="e105" source="袁帅" target="许昊妍" weight="21.0">
+        <color r="120" g="115" b="100" a="0.487" />
+        <thickness value="1.96" />
+      </edge>
+      <edge id="e106" source="赵兴昊" target="屠媛媛" weight="20.9">
+        <color r="120" g="115" b="100" a="0.486" />
+        <thickness value="1.95" />
+      </edge>
+      <edge id="e107" source="刘贤贇" target="许文杰" weight="20.9">
+        <color r="120" g="115" b="100" a="0.486" />
+        <thickness value="1.95" />
+      </edge>
+      <edge id="e108" source="许昊妍" target="滕巍" weight="20.9">
+        <color r="120" g="115" b="100" a="0.486" />
+        <thickness value="1.95" />
+      </edge>
+      <edge id="e109" source="李文涵" target="刘贤贇" weight="20.8">
+        <color r="120" g="115" b="100" a="0.485" />
+        <thickness value="1.95" />
+      </edge>
+      <edge id="e110" source="陈晨" target="顾婧怡" weight="20.7">
+        <color r="120" g="115" b="100" a="0.484" />
+        <thickness value="1.94" />
+      </edge>
+      <edge id="e111" source="刘一丹" target="许靖雯" weight="20.7">
+        <color r="120" g="115" b="100" a="0.484" />
+        <thickness value="1.94" />
+      </edge>
+      <edge id="e112" source="于子轩" target="邱芷霖" weight="20.6">
+        <color r="120" g="115" b="100" a="0.483" />
+        <thickness value="1.93" />
+      </edge>
+      <edge id="e113" source="顾婧怡" target="邱芷霖" weight="20.6">
+        <color r="120" g="115" b="100" a="0.483" />
+        <thickness value="1.93" />
+      </edge>
+      <edge id="e114" source="吴亿玮" target="熊静婷" weight="20.6">
+        <color r="120" g="115" b="100" a="0.483" />
+        <thickness value="1.93" />
+      </edge>
+      <edge id="e115" source="王音奇" target="屠媛媛" weight="20.6">
+        <color r="120" g="115" b="100" a="0.483" />
+        <thickness value="1.93" />
+      </edge>
+      <edge id="e116" source="李如清" target="刘贤贇" weight="20.4">
+        <color r="120" g="115" b="100" a="0.482" />
+        <thickness value="1.92" />
+      </edge>
+      <edge id="e117" source="张继元" target="屠媛媛" weight="20.4">
+        <color r="120" g="115" b="100" a="0.482" />
+        <thickness value="1.92" />
+      </edge>
+      <edge id="e118" source="于子轩" target="占磊" weight="20.4">
+        <color r="120" g="115" b="100" a="0.482" />
+        <thickness value="1.92" />
+      </edge>
+      <edge id="e119" source="于子轩" target="李卓柯" weight="20.4">
+        <color r="120" g="115" b="100" a="0.482" />
+        <thickness value="1.92" />
+      </edge>
+      <edge id="e120" source="吴亿玮" target="袁帅" weight="20.4">
+        <color r="120" g="115" b="100" a="0.482" />
+        <thickness value="1.92" />
+      </edge>
+      <edge id="e121" source="潘昕予" target="许昊妍" weight="20.4">
+        <color r="120" g="115" b="100" a="0.482" />
+        <thickness value="1.92" />
+      </edge>
+      <edge id="e122" source="顾婧怡" target="丁奕" weight="20.3">
+        <color r="120" g="115" b="100" a="0.481" />
+        <thickness value="1.91" />
+      </edge>
+      <edge id="e123" source="岳非" target="邱芷霖" weight="20.3">
+        <color r="120" g="115" b="100" a="0.481" />
+        <thickness value="1.91" />
+      </edge>
+      <edge id="e124" source="娄贺鑫" target="陈晨" weight="20.2">
+        <color r="120" g="115" b="100" a="0.48" />
+        <thickness value="1.91" />
+      </edge>
+      <edge id="e125" source="于子轩" target="蒋庆霞" weight="20.2">
+        <color r="120" g="115" b="100" a="0.48" />
+        <thickness value="1.91" />
+      </edge>
+      <edge id="e126" source="吴亿玮" target="许昊妍" weight="20.1">
+        <color r="120" g="115" b="100" a="0.479" />
+        <thickness value="1.9" />
+      </edge>
+      <edge id="e127" source="周梦菲" target="许昊妍" weight="20.1">
+        <color r="120" g="115" b="100" a="0.479" />
+        <thickness value="1.9" />
+      </edge>
+      <edge id="e128" source="方李" target="屠媛媛" weight="20.0">
+        <color r="120" g="115" b="100" a="0.478" />
+        <thickness value="1.89" />
+      </edge>
+      <edge id="e129" source="娄贺鑫" target="蒋庆霞" weight="19.9">
+        <color r="120" g="115" b="100" a="0.477" />
+        <thickness value="1.89" />
+      </edge>
+      <edge id="e130" source="娄贺鑫" target="吴亿玮" weight="19.9">
+        <color r="120" g="115" b="100" a="0.477" />
+        <thickness value="1.89" />
+      </edge>
+      <edge id="e131" source="刘贤贇" target="董慧鑫" weight="19.7">
+        <color r="120" g="115" b="100" a="0.475" />
+        <thickness value="1.88" />
+      </edge>
+      <edge id="e132" source="吴亿玮" target="尹一凡" weight="19.6">
+        <color r="120" g="115" b="100" a="0.474" />
+        <thickness value="1.87" />
+      </edge>
+      <edge id="e133" source="熊静婷" target="屠媛媛" weight="19.6">
+        <color r="120" g="115" b="100" a="0.474" />
+        <thickness value="1.87" />
+      </edge>
+      <edge id="e134" source="方李" target="尹一凡" weight="19.5">
+        <color r="120" g="115" b="100" a="0.474" />
+        <thickness value="1.86" />
+      </edge>
+      <edge id="e135" source="于子轩" target="高橙" weight="19.4">
+        <color r="120" g="115" b="100" a="0.473" />
+        <thickness value="1.86" />
+      </edge>
+      <edge id="e136" source="刘贤贇" target="潘昕予" weight="19.4">
+        <color r="120" g="115" b="100" a="0.473" />
+        <thickness value="1.86" />
+      </edge>
+      <edge id="e137" source="顾婧怡" target="潘昕予" weight="19.4">
+        <color r="120" g="115" b="100" a="0.473" />
+        <thickness value="1.86" />
+      </edge>
+      <edge id="e138" source="顾婧怡" target="高橙" weight="19.4">
+        <color r="120" g="115" b="100" a="0.473" />
+        <thickness value="1.86" />
+      </edge>
+      <edge id="e139" source="吴亿玮" target="刘一丹" weight="19.4">
+        <color r="120" g="115" b="100" a="0.473" />
+        <thickness value="1.86" />
+      </edge>
+      <edge id="e140" source="李文涵" target="顾婧怡" weight="19.3">
+        <color r="120" g="115" b="100" a="0.472" />
+        <thickness value="1.85" />
+      </edge>
+      <edge id="e141" source="刘贤贇" target="丁奕" weight="19.3">
+        <color r="120" g="115" b="100" a="0.472" />
+        <thickness value="1.85" />
+      </edge>
+      <edge id="e142" source="刘贤贇" target="占磊" weight="19.1">
+        <color r="120" g="115" b="100" a="0.47" />
+        <thickness value="1.84" />
+      </edge>
+      <edge id="e143" source="吴亿玮" target="潘昕予" weight="19.1">
+        <color r="120" g="115" b="100" a="0.47" />
+        <thickness value="1.84" />
+      </edge>
+      <edge id="e144" source="冯海花" target="尹一凡" weight="19.0">
+        <color r="120" g="115" b="100" a="0.469" />
+        <thickness value="1.83" />
+      </edge>
+      <edge id="e145" source="陈晨" target="屠媛媛" weight="18.9">
+        <color r="120" g="115" b="100" a="0.468" />
+        <thickness value="1.82" />
+      </edge>
+      <edge id="e146" source="刘贤贇" target="高橙" weight="18.9">
+        <color r="120" g="115" b="100" a="0.468" />
+        <thickness value="1.82" />
+      </edge>
+      <edge id="e147" source="顾婧怡" target="熊静婷" weight="18.9">
+        <color r="120" g="115" b="100" a="0.468" />
+        <thickness value="1.82" />
+      </edge>
+      <edge id="e148" source="刘一丹" target="袁帅" weight="18.9">
+        <color r="120" g="115" b="100" a="0.468" />
+        <thickness value="1.82" />
+      </edge>
+      <edge id="e149" source="宋邢遥" target="彭星蕊" weight="18.8">
+        <color r="120" g="115" b="100" a="0.467" />
+        <thickness value="1.82" />
+      </edge>
+      <edge id="e150" source="王泽琳" target="屠媛媛" weight="18.8">
+        <color r="120" g="115" b="100" a="0.467" />
+        <thickness value="1.82" />
+      </edge>
+      <edge id="e151" source="方李" target="王泽琳" weight="18.7">
+        <color r="120" g="115" b="100" a="0.466" />
+        <thickness value="1.81" />
+      </edge>
+      <edge id="e152" source="吴亿玮" target="许靖雯" weight="18.7">
+        <color r="120" g="115" b="100" a="0.466" />
+        <thickness value="1.81" />
+      </edge>
+      <edge id="e153" source="刘贤贇" target="许靖雯" weight="18.6">
+        <color r="120" g="115" b="100" a="0.466" />
+        <thickness value="1.8" />
+      </edge>
+      <edge id="e154" source="吴亿玮" target="王泽琳" weight="18.6">
+        <color r="120" g="115" b="100" a="0.466" />
+        <thickness value="1.8" />
+      </edge>
+      <edge id="e155" source="岳非" target="王音奇" weight="18.6">
+        <color r="120" g="115" b="100" a="0.466" />
+        <thickness value="1.8" />
+      </edge>
+      <edge id="e156" source="张继元" target="滕巍" weight="18.5">
+        <color r="120" g="115" b="100" a="0.465" />
+        <thickness value="1.8" />
+      </edge>
+      <edge id="e157" source="顾婧怡" target="彭星蕊" weight="18.5">
+        <color r="120" g="115" b="100" a="0.465" />
+        <thickness value="1.8" />
+      </edge>
+      <edge id="e158" source="娄贺鑫" target="熊静婷" weight="18.4">
+        <color r="120" g="115" b="100" a="0.464" />
+        <thickness value="1.79" />
+      </edge>
+      <edge id="e159" source="刘贤贇" target="潘泽鑫" weight="18.4">
+        <color r="120" g="115" b="100" a="0.464" />
+        <thickness value="1.79" />
+      </edge>
+      <edge id="e160" source="方李" target="吴亿玮" weight="18.4">
+        <color r="120" g="115" b="100" a="0.464" />
+        <thickness value="1.79" />
+      </edge>
+      <edge id="e161" source="张继元" target="李文涵" weight="18.2">
+        <color r="120" g="115" b="100" a="0.462" />
+        <thickness value="1.78" />
+      </edge>
+      <edge id="e162" source="刘贤贇" target="李卓柯" weight="18.2">
+        <color r="120" g="115" b="100" a="0.462" />
+        <thickness value="1.78" />
+      </edge>
+      <edge id="e163" source="冯海花" target="许靖雯" weight="18.2">
+        <color r="120" g="115" b="100" a="0.462" />
+        <thickness value="1.78" />
+      </edge>
+      <edge id="e164" source="张继元" target="吴亿玮" weight="18.1">
+        <color r="120" g="115" b="100" a="0.461" />
+        <thickness value="1.77" />
+      </edge>
+      <edge id="e165" source="蒋庆霞" target="屠媛媛" weight="18.1">
+        <color r="120" g="115" b="100" a="0.461" />
+        <thickness value="1.77" />
+      </edge>
+      <edge id="e166" source="许昊妍" target="刘学颐" weight="18.1">
+        <color r="120" g="115" b="100" a="0.461" />
+        <thickness value="1.77" />
+      </edge>
+      <edge id="e167" source="陈晨" target="吴亿玮" weight="18.0">
+        <color r="120" g="115" b="100" a="0.46" />
+        <thickness value="1.77" />
+      </edge>
+      <edge id="e168" source="岳非" target="刘赞文" weight="18.0">
+        <color r="120" g="115" b="100" a="0.46" />
+        <thickness value="1.77" />
+      </edge>
+      <edge id="e169" source="李如清" target="顾婧怡" weight="17.9">
+        <color r="120" g="115" b="100" a="0.459" />
+        <thickness value="1.76" />
+      </edge>
+      <edge id="e170" source="张继元" target="刘一丹" weight="17.9">
+        <color r="120" g="115" b="100" a="0.459" />
+        <thickness value="1.76" />
+      </edge>
+      <edge id="e171" source="赵兴昊" target="王泽琳" weight="17.9">
+        <color r="120" g="115" b="100" a="0.459" />
+        <thickness value="1.76" />
+      </edge>
+      <edge id="e172" source="顾婧怡" target="周梦菲" weight="17.9">
+        <color r="120" g="115" b="100" a="0.459" />
+        <thickness value="1.76" />
+      </edge>
+      <edge id="e173" source="冯海花" target="屠媛媛" weight="17.9">
+        <color r="120" g="115" b="100" a="0.459" />
+        <thickness value="1.76" />
+      </edge>
+      <edge id="e174" source="刘一丹" target="许昊妍" weight="17.9">
+        <color r="120" g="115" b="100" a="0.459" />
+        <thickness value="1.76" />
+      </edge>
+      <edge id="e175" source="刘一丹" target="尹一凡" weight="17.9">
+        <color r="120" g="115" b="100" a="0.459" />
+        <thickness value="1.76" />
+      </edge>
+      <edge id="e176" source="于子轩" target="丁奕" weight="17.8">
+        <color r="120" g="115" b="100" a="0.458" />
+        <thickness value="1.75" />
+      </edge>
+      <edge id="e177" source="顾婧怡" target="刘学颐" weight="17.8">
+        <color r="120" g="115" b="100" a="0.458" />
+        <thickness value="1.75" />
+      </edge>
+      <edge id="e178" source="娄贺鑫" target="刘学颐" weight="17.7">
+        <color r="120" g="115" b="100" a="0.458" />
+        <thickness value="1.75" />
+      </edge>
+      <edge id="e179" source="宋邢遥" target="吴亿玮" weight="17.7">
+        <color r="120" g="115" b="100" a="0.458" />
+        <thickness value="1.75" />
+      </edge>
+      <edge id="e180" source="宋邢遥" target="尹一凡" weight="17.7">
+        <color r="120" g="115" b="100" a="0.458" />
+        <thickness value="1.75" />
+      </edge>
+      <edge id="e181" source="方李" target="岳非" weight="17.7">
+        <color r="120" g="115" b="100" a="0.458" />
+        <thickness value="1.75" />
+      </edge>
+      <edge id="e182" source="娄贺鑫" target="唐晓妍" weight="17.6">
+        <color r="120" g="115" b="100" a="0.457" />
+        <thickness value="1.74" />
+      </edge>
+      <edge id="e183" source="唐晓妍" target="王泽琳" weight="17.6">
+        <color r="120" g="115" b="100" a="0.457" />
+        <thickness value="1.74" />
+      </edge>
+      <edge id="e184" source="熊静婷" target="尹一凡" weight="17.6">
+        <color r="120" g="115" b="100" a="0.457" />
+        <thickness value="1.74" />
+      </edge>
+      <edge id="e185" source="许昊妍" target="王音奇" weight="17.6">
+        <color r="120" g="115" b="100" a="0.457" />
+        <thickness value="1.74" />
+      </edge>
+      <edge id="e186" source="于子轩" target="刘赞文" weight="17.5">
+        <color r="120" g="115" b="100" a="0.456" />
+        <thickness value="1.73" />
+      </edge>
+      <edge id="e187" source="彭星蕊" target="岳非" weight="17.5">
+        <color r="120" g="115" b="100" a="0.456" />
+        <thickness value="1.73" />
+      </edge>
+      <edge id="e188" source="刘贤贇" target="周梦菲" weight="17.4">
+        <color r="120" g="115" b="100" a="0.455" />
+        <thickness value="1.73" />
+      </edge>
+      <edge id="e189" source="彭星蕊" target="吴亿玮" weight="17.4">
+        <color r="120" g="115" b="100" a="0.455" />
+        <thickness value="1.73" />
+      </edge>
+      <edge id="e190" source="彭星蕊" target="熊静婷" weight="17.4">
+        <color r="120" g="115" b="100" a="0.455" />
+        <thickness value="1.73" />
+      </edge>
+      <edge id="e191" source="吴亿玮" target="王音奇" weight="17.4">
+        <color r="120" g="115" b="100" a="0.455" />
+        <thickness value="1.73" />
+      </edge>
+      <edge id="e192" source="岳非" target="朱紫怡" weight="17.4">
+        <color r="120" g="115" b="100" a="0.455" />
+        <thickness value="1.73" />
+      </edge>
+      <edge id="e193" source="李如清" target="王泽琳" weight="17.3">
+        <color r="120" g="115" b="100" a="0.454" />
+        <thickness value="1.72" />
+      </edge>
+      <edge id="e194" source="赵兴昊" target="尹一凡" weight="17.3">
+        <color r="120" g="115" b="100" a="0.454" />
+        <thickness value="1.72" />
+      </edge>
+      <edge id="e195" source="刘贤贇" target="刘学颐" weight="17.3">
+        <color r="120" g="115" b="100" a="0.454" />
+        <thickness value="1.72" />
+      </edge>
+      <edge id="e196" source="方李" target="袁帅" weight="17.3">
+        <color r="120" g="115" b="100" a="0.454" />
+        <thickness value="1.72" />
+      </edge>
+      <edge id="e197" source="许文杰" target="吴亿玮" weight="17.3">
+        <color r="120" g="115" b="100" a="0.454" />
+        <thickness value="1.72" />
+      </edge>
+      <edge id="e198" source="张继元" target="冯海花" weight="17.2">
+        <color r="120" g="115" b="100" a="0.453" />
+        <thickness value="1.71" />
+      </edge>
+      <edge id="e199" source="蒋庆霞" target="吴亿玮" weight="17.2">
+        <color r="120" g="115" b="100" a="0.453" />
+        <thickness value="1.71" />
+      </edge>
+      <edge id="e200" source="许文杰" target="岳非" weight="17.2">
+        <color r="120" g="115" b="100" a="0.453" />
+        <thickness value="1.71" />
+      </edge>
+      <edge id="e201" source="唐晓妍" target="岳非" weight="17.1">
+        <color r="120" g="115" b="100" a="0.452" />
+        <thickness value="1.71" />
+      </edge>
+      <edge id="e202" source="熊静婷" target="袁帅" weight="17.0">
+        <color r="120" g="115" b="100" a="0.451" />
+        <thickness value="1.7" />
+      </edge>
+      <edge id="e203" source="于子轩" target="朱紫怡" weight="16.9">
+        <color r="120" g="115" b="100" a="0.45" />
+        <thickness value="1.69" />
+      </edge>
+      <edge id="e204" source="顾婧怡" target="潘泽鑫" weight="16.9">
+        <color r="120" g="115" b="100" a="0.45" />
+        <thickness value="1.69" />
+      </edge>
+      <edge id="e205" source="潘昕予" target="屠媛媛" weight="16.9">
+        <color r="120" g="115" b="100" a="0.45" />
+        <thickness value="1.69" />
+      </edge>
+      <edge id="e206" source="许昊妍" target="尹一凡" weight="16.9">
+        <color r="120" g="115" b="100" a="0.45" />
+        <thickness value="1.69" />
+      </edge>
+      <edge id="e207" source="王泽琳" target="滕巍" weight="16.9">
+        <color r="120" g="115" b="100" a="0.45" />
+        <thickness value="1.69" />
+      </edge>
+      <edge id="e208" source="宋邢遥" target="岳非" weight="16.8">
+        <color r="120" g="115" b="100" a="0.45" />
+        <thickness value="1.69" />
+      </edge>
+      <edge id="e209" source="于子轩" target="彭星蕊" weight="16.8">
+        <color r="120" g="115" b="100" a="0.45" />
+        <thickness value="1.69" />
+      </edge>
+      <edge id="e210" source="李如清" target="尹一凡" weight="16.7">
+        <color r="120" g="115" b="100" a="0.449" />
+        <thickness value="1.68" />
+      </edge>
+      <edge id="e211" source="张继元" target="袁帅" weight="16.7">
+        <color r="120" g="115" b="100" a="0.449" />
+        <thickness value="1.68" />
+      </edge>
+      <edge id="e212" source="张薛蓉" target="岳非" weight="16.7">
+        <color r="120" g="115" b="100" a="0.449" />
+        <thickness value="1.68" />
+      </edge>
+      <edge id="e213" source="李卓柯" target="滕巍" weight="16.7">
+        <color r="120" g="115" b="100" a="0.449" />
+        <thickness value="1.68" />
+      </edge>
+      <edge id="e214" source="尹一凡" target="滕巍" weight="16.7">
+        <color r="120" g="115" b="100" a="0.449" />
+        <thickness value="1.68" />
+      </edge>
+      <edge id="e215" source="蒋庆霞" target="岳非" weight="16.6">
+        <color r="120" g="115" b="100" a="0.448" />
+        <thickness value="1.67" />
+      </edge>
+      <edge id="e216" source="彭星蕊" target="王音奇" weight="16.6">
+        <color r="120" g="115" b="100" a="0.448" />
+        <thickness value="1.67" />
+      </edge>
+      <edge id="e217" source="刘学颐" target="屠媛媛" weight="16.6">
+        <color r="120" g="115" b="100" a="0.448" />
+        <thickness value="1.67" />
+      </edge>
+      <edge id="e218" source="王音奇" target="尹一凡" weight="16.6">
+        <color r="120" g="115" b="100" a="0.448" />
+        <thickness value="1.67" />
+      </edge>
+      <edge id="e219" source="吴亿玮" target="滕巍" weight="16.5">
+        <color r="120" g="115" b="100" a="0.447" />
+        <thickness value="1.67" />
+      </edge>
+      <edge id="e220" source="丁奕" target="屠媛媛" weight="16.5">
+        <color r="120" g="115" b="100" a="0.447" />
+        <thickness value="1.67" />
+      </edge>
+      <edge id="e221" source="宋邢遥" target="赵兴昊" weight="16.4">
+        <color r="120" g="115" b="100" a="0.446" />
+        <thickness value="1.66" />
+      </edge>
+      <edge id="e222" source="顾婧怡" target="占磊" weight="16.4">
+        <color r="120" g="115" b="100" a="0.446" />
+        <thickness value="1.66" />
+      </edge>
+      <edge id="e223" source="刘一丹" target="刘学颐" weight="16.4">
+        <color r="120" g="115" b="100" a="0.446" />
+        <thickness value="1.66" />
+      </edge>
+      <edge id="e224" source="宋邢遥" target="熊静婷" weight="16.2">
+        <color r="120" g="115" b="100" a="0.444" />
+        <thickness value="1.65" />
+      </edge>
+      <edge id="e225" source="张薛蓉" target="刘一丹" weight="16.2">
+        <color r="120" g="115" b="100" a="0.444" />
+        <thickness value="1.65" />
+      </edge>
+      <edge id="e226" source="袁帅" target="滕巍" weight="16.2">
+        <color r="120" g="115" b="100" a="0.444" />
+        <thickness value="1.65" />
+      </edge>
+      <edge id="e227" source="宋邢遥" target="袁帅" weight="16.1">
+        <color r="120" g="115" b="100" a="0.443" />
+        <thickness value="1.64" />
+      </edge>
+      <edge id="e228" source="李如清" target="占磊" weight="16.1">
+        <color r="120" g="115" b="100" a="0.443" />
+        <thickness value="1.64" />
+      </edge>
+      <edge id="e229" source="李文涵" target="刘学颐" weight="16.1">
+        <color r="120" g="115" b="100" a="0.443" />
+        <thickness value="1.64" />
+      </edge>
+      <edge id="e230" source="刘贤贇" target="邱芷霖" weight="16.1">
+        <color r="120" g="115" b="100" a="0.443" />
+        <thickness value="1.64" />
+      </edge>
+      <edge id="e231" source="岳非" target="高橙" weight="16.1">
+        <color r="120" g="115" b="100" a="0.443" />
+        <thickness value="1.64" />
+      </edge>
+      <edge id="e232" source="刘一丹" target="熊静婷" weight="16.1">
+        <color r="120" g="115" b="100" a="0.443" />
+        <thickness value="1.64" />
+      </edge>
+      <edge id="e233" source="王泽琳" target="王音奇" weight="16.1">
+        <color r="120" g="115" b="100" a="0.443" />
+        <thickness value="1.64" />
+      </edge>
+      <edge id="e234" source="陈晨" target="袁帅" weight="16.0">
+        <color r="120" g="115" b="100" a="0.442" />
+        <thickness value="1.64" />
+      </edge>
+      <edge id="e235" source="唐晓妍" target="王音奇" weight="16.0">
+        <color r="120" g="115" b="100" a="0.442" />
+        <thickness value="1.64" />
+      </edge>
+    </edges>
+  </graph>
+  <meta content="236" />
+</gexf>
