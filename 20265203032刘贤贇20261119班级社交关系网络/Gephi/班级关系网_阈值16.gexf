@@ -1,0 +1,1505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:viz="http://www.gexf.net/1.2draft/viz" version="1.2">
+  <meta lastmodifieddate="2026-11-25"><creator>班级社交网络 3.0</creator><description>关系织网调研（43 份答卷）</description></meta>
+  <graph mode="static" defaultedgetype="undirected">
+    <attributes class="node">
+      <attribute id="a0" title="生源地" type="string"/>
+      <attribute id="a1" title="MBTI" type="string"/>
+      <attribute id="a2" title="星座" type="string"/>
+      <attribute id="a3" title="口味" type="string"/>
+      <attribute id="a4" title="时段" type="string"/>
+      <attribute id="a5" title="方向" type="string"/>
+      <attribute id="a6" title="话题" type="string"/>
+      <attribute id="a7" title="技能" type="string"/>
+      <attribute id="a8" title="工具" type="string"/>
+      <attribute id="a9" title="兴趣" type="string"/>
+      <attribute id="a10" title="能提供" type="string"/>
+      <attribute id="a11" title="想获得" type="string"/>
+    </attributes>
+    <nodes>
+      <node id="n0" label="娄贺鑫">
+        <viz:position x="2492.8" y="5295.2"/>
+        <viz:size value="27.6"/>
+        <viz:color r="24" g="95" b="165"/>
+        <attvalues>
+          <attvalue for="a0" value="湖北"/>
+          <attvalue for="a1" value="ISFJ"/>
+          <attvalue for="a2" value="处女"/>
+          <attvalue for="a3" value="都可"/>
+          <attvalue for="a4" value="上午"/>
+          <attvalue for="a5" value="档案学基础理论|数字档案与电子文件"/>
+          <attvalue for="a6" value="AI生成内容对档案真实性的挑战|大语言模型能否替代传统信息组织|开放科学背景下的学术数据共享|档案资源开发利用的伦理边界"/>
+          <attvalue for="a7" value="史料梳理|访谈记录|写作|编程|绘图设计"/>
+          <attvalue for="a8" value="ChatGPT|Claude|DeepSeek|豆包|WorkBuddy"/>
+          <attvalue for="a9" value="书法|钢琴|运动|美食探店"/>
+          <attvalue for="a10" value="资料查找|数据清洗|可视化作图"/>
+          <attvalue for="a11" value="资料查找|数据清洗|编程实现"/>
+        </attvalues>
+      </node>
+      <node id="n1" label="陈晨">
+        <viz:position x="1907.2" y="4744.0"/>
+        <viz:size value="25.7"/>
+        <viz:color r="24" g="95" b="165"/>
+        <attvalues>
+          <attvalue for="a0" value="甘肃"/>
+          <attvalue for="a1" value="ENFJ"/>
+          <attvalue for="a2" value="白羊"/>
+          <attvalue for="a3" value="都可"/>
+          <attvalue for="a4" value="下午"/>
+          <attvalue for="a5" value="档案学基础理论|信息组织与检索|文化遗产数字化"/>
+          <attvalue for="a6" value="AI生成内容对档案真实性的挑战|档案资源开发利用的伦理边界|文化遗产数字化中的众包模式"/>
+          <attvalue for="a7" value="史料梳理|写作|汇报讲述"/>
+          <attvalue for="a8" value="豆包|WorkBuddy"/>
+          <attvalue for="a9" value="书法|钢琴|绘画|音乐|追剧|唱歌"/>
+          <attvalue for="a10" value="资料查找|文稿校对|PPT制作|汇报讲述|统计分析"/>
+          <attvalue for="a11" value="数据清洗|可视化作图"/>
+        </attvalues>
+      </node>
+      <node id="n2" label="唐晓妍">
+        <viz:position x="4896.0" y="5443.2"/>
+        <viz:size value="25.9"/>
+        <viz:color r="24" g="95" b="165"/>
+        <attvalues>
+          <attvalue for="a0" value="湖南"/>
+          <attvalue for="a1" value="INTP"/>
+          <attvalue for="a2" value="天秤"/>
+          <attvalue for="a3" value="咸"/>
+          <attvalue for="a4" value="晚上"/>
+          <attvalue for="a5" value="档案学基础理论"/>
+          <attvalue for="a6" value="档案资源开发利用的伦理边界"/>
+          <attvalue for="a7" value="史料梳理|可视化|访谈记录|文献综述"/>
+          <attvalue for="a8" value="DeepSeek|豆包|WorkBuddy"/>
+          <attvalue for="a9" value="运动|游戏|追剧|美食探店"/>
+          <attvalue for="a10" value="资料查找|可视化作图|文献梳理|访谈记录|文稿校对|统计分析"/>
+          <attvalue for="a11" value="数据清洗|编程实现|AI工具指导|汇报讲述"/>
+        </attvalues>
+      </node>
+      <node id="n3" label="宋邢遥">
+        <viz:position x="6591.2" y="3617.6"/>
+        <viz:size value="24.8"/>
+        <viz:color r="91" g="107" b="124"/>
+        <attvalues>
+          <attvalue for="a0" value="浙江"/>
+          <attvalue for="a1" value="ENFP"/>
+          <attvalue for="a2" value="巨蟹"/>
+          <attvalue for="a3" value="都可"/>
+          <attvalue for="a4" value="弹性"/>
+          <attvalue for="a5" value="数字档案与电子文件|档案资源开发利用"/>
+          <attvalue for="a6" value="AI生成内容对档案真实性的挑战|电子文件长期保存与可信性"/>
+          <attvalue for="a7" value="汇报讲述"/>
+          <attvalue for="a8" value="DeepSeek|WorkBuddy"/>
+          <attvalue for="a9" value="书法|绘画|摄影|旅行|手工|美食探店"/>
+          <attvalue for="a10" value="资料查找|文稿校对|PPT制作|汇报讲述"/>
+          <attvalue for="a11" value="数据清洗|可视化作图|编程实现|统计分析"/>
+        </attvalues>
+      </node>
+      <node id="n4" label="李如清">
+        <viz:position x="6150.4" y="1340.0"/>
+        <viz:size value="26.3"/>
+        <viz:color r="166" g="58" b="42"/>
+        <attvalues>
+          <attvalue for="a0" value="江苏"/>
+          <attvalue for="a1" value="INTJ"/>
+          <attvalue for="a2" value="狮子"/>
+          <attvalue for="a3" value="都可"/>
+          <attvalue for="a4" value="下午"/>
+          <attvalue for="a5" value="情报学与竞争情报|数据科学与大数据"/>
+          <attvalue for="a6" value="AI生成内容对档案真实性的挑战"/>
+          <attvalue for="a7" value="数据清洗|访谈记录|写作"/>
+          <attvalue for="a8" value="ChatGPT|Claude|DeepSeek|豆包|WorkBuddy"/>
+          <attvalue for="a9" value="绘画|音乐|游戏|动漫"/>
+          <attvalue for="a10" value="AI工具指导|文稿校对|PPT制作|翻译"/>
+          <attvalue for="a11" value="资料查找|访谈记录|汇报讲述"/>
+        </attvalues>
+      </node>
+      <node id="n5" label="张继元">
+        <viz:position x="4516.8" y="620.0"/>
+        <viz:size value="26.9"/>
+        <viz:color r="166" g="58" b="42"/>
+        <attvalues>
+          <attvalue for="a0" value="河南"/>
+          <attvalue for="a1" value="INFP"/>
+          <attvalue for="a2" value="巨蟹"/>
+          <attvalue for="a3" value="都可"/>
+          <attvalue for="a4" value="晚上"/>
+          <attvalue for="a5" value="情报学与竞争情报|数据挖掘与文本分析|自然语言处理|机器学习与人工智能|数字人文|数据科学与大数据"/>
+          <attvalue for="a6" value="大语言模型能否替代传统信息组织|知识图谱在人文研究中的应用边界|数字人文项目中数据标注如何可复核|算法推荐对信息获取多样性的影响|生成式AI对情报分析方法的影响"/>
+          <attvalue for="a7" value="编程"/>
+          <attvalue for="a8" value="ChatGPT|豆包|WorkBuddy"/>
+          <attvalue for="a9" value="阅读|运动|电影|旅行|追剧|唱歌|美食探店"/>
+          <attvalue for="a10" value="编程实现"/>
+          <attvalue for="a11" value="文献梳理"/>
+        </attvalues>
+      </node>
+      <node id="n6" label="李文涵">
+        <viz:position x="5242.4" y="690.4"/>
+        <viz:size value="24.4"/>
+        <viz:color r="166" g="58" b="42"/>
+        <attvalues>
+          <attvalue for="a0" value="江苏"/>
+          <attvalue for="a1" value="ENTP"/>
+          <attvalue for="a2" value="处女"/>
+          <attvalue for="a3" value="都可"/>
+          <attvalue for="a4" value="弹性"/>
+          <attvalue for="a5" value="情报学与竞争情报|数字人文"/>
+          <attvalue for="a6" value="大语言模型能否替代传统信息组织|数字人文项目中数据标注如何可复核|生成式AI对情报分析方法的影响"/>
+          <attvalue for="a7" value="问卷设计"/>
+          <attvalue for="a8" value="DeepSeek|豆包|WorkBuddy"/>
+          <attvalue for="a9" value="音乐|旅行|游戏|美食探店"/>
+          <attvalue for="a10" value="PPT制作"/>
+          <attvalue for="a11" value="数据清洗|可视化作图|编程实现"/>
+        </attvalues>
+      </node>
+      <node id="n7" label="赵兴昊">
+        <viz:position x="5121.6" y="5034.4"/>
+        <viz:size value="26.6"/>
+        <viz:color r="91" g="107" b="124"/>
+        <attvalues>
+          <attvalue for="a0" value="新疆"/>
+          <attvalue for="a1" value="INTJ"/>
+          <attvalue for="a2" value="处女"/>
+          <attvalue for="a3" value="甜"/>
+          <attvalue for="a4" value="晚上"/>
+          <attvalue for="a5" value="数字档案与电子文件|信息组织与检索|知识图谱与语义网"/>
+          <attvalue for="a6" value="AI生成内容对档案真实性的挑战|电子文件长期保存与可信性"/>
+          <attvalue for="a7" value="数据清洗|可视化|统计分析"/>
+          <attvalue for="a8" value="DeepSeek|豆包|WorkBuddy"/>
+          <attvalue for="a9" value="摄影|阅读|运动|游戏|追剧|动漫"/>
+          <attvalue for="a10" value="资料查找|数据清洗|可视化作图|文稿校对|统计分析"/>
+          <attvalue for="a11" value="编程实现|AI工具指导|汇报讲述"/>
+        </attvalues>
+      </node>
+      <node id="n8" label="于子轩">
+        <viz:position x="3719.2" y="2707.2"/>
+        <viz:size value="39.8"/>
+        <viz:color r="166" g="58" b="42"/>
+        <attvalues>
+          <attvalue for="a0" value="江苏"/>
+          <attvalue for="a1" value="INFJ"/>
+          <attvalue for="a2" value="狮子"/>
+          <attvalue for="a3" value="甜"/>
+          <attvalue for="a4" value="弹性"/>
+          <attvalue for="a5" value="情报学与竞争情报|信息组织与检索|知识图谱与语义网|数据挖掘与文本分析|自然语言处理|机器学习与人工智能|数据科学与大数据|学术评价与文献计量"/>
+          <attvalue for="a6" value="AI生成内容对档案真实性的挑战|大语言模型能否替代传统信息组织|知识图谱在人文研究中的应用边界|生成式AI对情报分析方法的影响|信息资源管理专业的数字技能培养"/>
+          <attvalue for="a7" value="数据清洗|可视化|写作|编程|翻译"/>
+          <attvalue for="a8" value="ChatGPT|DeepSeek|WorkBuddy"/>
+          <attvalue for="a9" value="书法|钢琴|摄影|阅读|运动|音乐|电影|旅行|唱歌|骑行|美食探店"/>
+          <attvalue for="a10" value="资料查找|数据清洗|可视化作图|编程实现|AI工具指导|PPT制作|汇报讲述|翻译"/>
+          <attvalue for="a11" value="资料查找|数据清洗|可视化作图|编程实现|文献梳理|AI工具指导|访谈记录|文稿校对|PPT制作|汇报讲述|统计分析|翻译"/>
+        </attvalues>
+      </node>
+      <node id="n9" label="刘贤贇">
+        <viz:position x="4004.0" y="3966.4"/>
+        <viz:size value="40.0"/>
+        <viz:color r="24" g="95" b="165"/>
+        <attvalues>
+          <attvalue for="a0" value="江苏"/>
+          <attvalue for="a1" value="INFJ"/>
+          <attvalue for="a2" value="摩羯"/>
+          <attvalue for="a3" value="都可"/>
+          <attvalue for="a4" value="弹性"/>
+          <attvalue for="a5" value="档案学基础理论|档案资源开发利用"/>
+          <attvalue for="a6" value="AI生成内容对档案真实性的挑战|大语言模型能否替代传统信息组织|知识图谱在人文研究中的应用边界|数字人文项目中数据标注如何可复核|智慧图书馆的用户隐私保护|开放科学背景下的学术数据共享|档案资源开发利用的伦理边界|算法推荐对信息获取多样性的影响|生成式AI对情报分析方法的影响|信息资源管理专业的数字技能培养|电子文件长期保存与可信性|文化遗产数字化中的众包模式"/>
+          <attvalue for="a7" value="可视化|写作|统计分析"/>
+          <attvalue for="a8" value="DeepSeek|豆包|WorkBuddy|其他"/>
+          <attvalue for="a9" value="阅读|游戏|追剧|美食探店"/>
+          <attvalue for="a10" value="资料查找|数据清洗|可视化作图|编程实现|文献梳理|AI工具指导|访谈记录|文稿校对|PPT制作|汇报讲述|统计分析|翻译"/>
+          <attvalue for="a11" value="资料查找|数据清洗|可视化作图|编程实现|文献梳理|AI工具指导|访谈记录|文稿校对|PPT制作|汇报讲述|统计分析|翻译"/>
+        </attvalues>
+      </node>
+      <node id="n10" label="顾婧怡">
+        <viz:position x="2991.2" y="2880.0"/>
+        <viz:size value="37.3"/>
+        <viz:color r="166" g="58" b="42"/>
+        <attvalues>
+          <attvalue for="a0" value="江苏"/>
+          <attvalue for="a1" value="ISFP"/>
+          <attvalue for="a2" value="水瓶"/>
+          <attvalue for="a3" value="都可"/>
+          <attvalue for="a4" value="弹性"/>
+          <attvalue for="a5" value="情报学与竞争情报|信息组织与检索|数据挖掘与文本分析|自然语言处理|机器学习与人工智能|用户信息行为"/>
+          <attvalue for="a6" value="知识图谱在人文研究中的应用边界|智慧图书馆的用户隐私保护|开放科学背景下的学术数据共享|算法推荐对信息获取多样性的影响|生成式AI对情报分析方法的影响|信息资源管理专业的数字技能培养"/>
+          <attvalue for="a7" value="数据清洗|可视化|汇报讲述|统计分析"/>
+          <attvalue for="a8" value="DeepSeek|豆包|Kimi|WorkBuddy"/>
+          <attvalue for="a9" value="摄影|阅读|音乐|旅行|游戏|追剧|手工"/>
+          <attvalue for="a10" value="数据清洗|可视化作图|AI工具指导|PPT制作|统计分析|翻译"/>
+          <attvalue for="a11" value="资料查找|数据清洗|可视化作图|编程实现|文献梳理|AI工具指导|访谈记录|文稿校对|PPT制作|汇报讲述|统计分析|翻译"/>
+        </attvalues>
+      </node>
+      <node id="n11" label="方李">
+        <viz:position x="5935.2" y="4385.6"/>
+        <viz:size value="27.6"/>
+        <viz:color r="24" g="95" b="165"/>
+        <attvalues>
+          <attvalue for="a0" value="江苏"/>
+          <attvalue for="a1" value="ENTJ"/>
+          <attvalue for="a2" value="天秤"/>
+          <attvalue for="a3" value="都可"/>
+          <attvalue for="a4" value="弹性"/>
+          <attvalue for="a5" value="档案资源开发利用|政务信息资源管理"/>
+          <attvalue for="a6" value="AI生成内容对档案真实性的挑战|生成式AI对情报分析方法的影响"/>
+          <attvalue for="a7" value="数据清洗|汇报讲述|统计分析"/>
+          <attvalue for="a8" value="ChatGPT|DeepSeek|豆包|WorkBuddy"/>
+          <attvalue for="a9" value="摄影|运动|音乐"/>
+          <attvalue for="a10" value="资料查找|数据清洗|文稿校对|PPT制作|汇报讲述|统计分析"/>
+          <attvalue for="a11" value="可视化作图"/>
+        </attvalues>
+      </node>
+      <node id="n12" label="冯海花">
+        <viz:position x="4307.2" y="963.2"/>
+        <viz:size value="27.7"/>
+        <viz:color r="47" g="93" b="80"/>
+        <attvalues>
+          <attvalue for="a0" value="甘肃"/>
+          <attvalue for="a1" value="ISFJ"/>
+          <attvalue for="a2" value="巨蟹"/>
+          <attvalue for="a3" value="都可"/>
+          <attvalue for="a4" value="下午"/>
+          <attvalue for="a5" value="数据挖掘与文本分析|学术评价与文献计量"/>
+          <attvalue for="a6" value="智慧图书馆的用户隐私保护|生成式AI对情报分析方法的影响|信息资源管理专业的数字技能培养"/>
+          <attvalue for="a7" value="汇报讲述|统计分析|问卷设计|文献综述"/>
+          <attvalue for="a8" value="ChatGPT|豆包|WorkBuddy"/>
+          <attvalue for="a9" value="绘画|摄影|运动|旅行|烹饪|追剧"/>
+          <attvalue for="a10" value="资料查找|可视化作图|文献梳理|AI工具指导|文稿校对|PPT制作|汇报讲述|统计分析"/>
+          <attvalue for="a11" value="编程实现|翻译"/>
+        </attvalues>
+      </node>
+      <node id="n13" label="占磊">
+        <viz:position x="5989.6" y="4955.2"/>
+        <viz:size value="22.6"/>
+        <viz:color r="138" g="90" b="27"/>
+        <attvalues>
+          <attvalue for="a0" value="江西"/>
+          <attvalue for="a1" value="INFJ"/>
+          <attvalue for="a2" value="水瓶"/>
+          <attvalue for="a3" value="咸"/>
+          <attvalue for="a4" value="上午"/>
+          <attvalue for="a5" value="图书馆学与阅读推广|智慧图书馆|数据科学与大数据"/>
+          <attvalue for="a6" value="智慧图书馆的用户隐私保护"/>
+          <attvalue for="a7" value="可视化|写作"/>
+          <attvalue for="a8" value="DeepSeek|豆包|WorkBuddy"/>
+          <attvalue for="a9" value="阅读|音乐|电影|游戏|唱歌|动漫"/>
+          <attvalue for="a10" value="资料查找"/>
+          <attvalue for="a11" value="编程实现|文献梳理|AI工具指导"/>
+        </attvalues>
+      </node>
+      <node id="n14" label="郭扬扬">
+        <viz:position x="6584.0" y="1855.2"/>
+        <viz:size value="19.6"/>
+        <viz:color r="107" g="91" b="149"/>
+        <attvalues>
+          <attvalue for="a0" value="陕西"/>
+          <attvalue for="a1" value="INFJ"/>
+          <attvalue for="a2" value="天蝎"/>
+          <attvalue for="a3" value="都可"/>
+          <attvalue for="a4" value="下午"/>
+          <attvalue for="a5" value="数字人文|文化遗产数字化"/>
+          <attvalue for="a6" value="知识图谱在人文研究中的应用边界|文化遗产数字化中的众包模式"/>
+          <attvalue for="a7" value="问卷设计"/>
+          <attvalue for="a8" value="ChatGPT|WorkBuddy"/>
+          <attvalue for="a9" value="手工|咖啡品鉴"/>
+          <attvalue for="a10" value="资料查找|文稿校对|PPT制作"/>
+          <attvalue for="a11" value="可视化作图|编程实现|汇报讲述"/>
+        </attvalues>
+      </node>
+      <node id="n15" label="蒋庆霞">
+        <viz:position x="3204.0" y="5683.2"/>
+        <viz:size value="26.2"/>
+        <viz:color r="24" g="95" b="165"/>
+        <attvalues>
+          <attvalue for="a0" value="江苏"/>
+          <attvalue for="a1" value="INFP"/>
+          <attvalue for="a2" value="狮子"/>
+          <attvalue for="a3" value="都可"/>
+          <attvalue for="a4" value="下午"/>
+          <attvalue for="a5" value="档案学基础理论|档案资源开发利用"/>
+          <attvalue for="a6" value="AI生成内容对档案真实性的挑战|大语言模型能否替代传统信息组织|档案资源开发利用的伦理边界"/>
+          <attvalue for="a7" value="史料梳理|统计分析"/>
+          <attvalue for="a8" value="DeepSeek|豆包|WorkBuddy"/>
+          <attvalue for="a9" value="音乐|烹饪|美食探店|动漫"/>
+          <attvalue for="a10" value="资料查找|PPT制作"/>
+          <attvalue for="a11" value="数据清洗|可视化作图|编程实现|AI工具指导"/>
+        </attvalues>
+      </node>
+      <node id="n16" label="许文杰">
+        <viz:position x="6758.4" y="2672.8"/>
+        <viz:size value="23.1"/>
+        <viz:color r="138" g="90" b="27"/>
+        <attvalues>
+          <attvalue for="a0" value="江苏"/>
+          <attvalue for="a1" value="INFP"/>
+          <attvalue for="a2" value="天蝎"/>
+          <attvalue for="a3" value="甜"/>
+          <attvalue for="a4" value="弹性"/>
+          <attvalue for="a5" value="图书馆学与阅读推广|智慧图书馆"/>
+          <attvalue for="a6" value="AI生成内容对档案真实性的挑战|大语言模型能否替代传统信息组织|档案资源开发利用的伦理边界"/>
+          <attvalue for="a7" value="写作|文献综述"/>
+          <attvalue for="a8" value="Gemini"/>
+          <attvalue for="a9" value="阅读|音乐|旅行|唱歌"/>
+          <attvalue for="a10" value="可视化作图|文稿校对|PPT制作|统计分析"/>
+          <attvalue for="a11" value="资料查找|数据清洗|翻译"/>
+        </attvalues>
+      </node>
+      <node id="n17" label="彭星蕊">
+        <viz:position x="6490.4" y="4297.6"/>
+        <viz:size value="25.1"/>
+        <viz:color r="24" g="95" b="165"/>
+        <attvalues>
+          <attvalue for="a0" value="河北"/>
+          <attvalue for="a1" value="INFP"/>
+          <attvalue for="a2" value="双鱼"/>
+          <attvalue for="a3" value="咸"/>
+          <attvalue for="a4" value="弹性"/>
+          <attvalue for="a5" value="档案学基础理论|档案资源开发利用"/>
+          <attvalue for="a6" value="AI生成内容对档案真实性的挑战|档案资源开发利用的伦理边界|电子文件长期保存与可信性"/>
+          <attvalue for="a7" value="绘图设计"/>
+          <attvalue for="a8" value="DeepSeek|豆包|WorkBuddy"/>
+          <attvalue for="a9" value="绘画|摄影|旅行|游戏|追剧|手工|美食探店|汉服"/>
+          <attvalue for="a10" value="资料查找|文稿校对"/>
+          <attvalue for="a11" value="编程实现|文献梳理|翻译"/>
+        </attvalues>
+      </node>
+      <node id="n18" label="张薛蓉">
+        <viz:position x="5564.8" y="544.8"/>
+        <viz:size value="21.4"/>
+        <viz:color r="166" g="58" b="42"/>
+        <attvalues>
+          <attvalue for="a0" value="江苏"/>
+          <attvalue for="a1" value="ISTJ"/>
+          <attvalue for="a2" value="天秤"/>
+          <attvalue for="a3" value="都可"/>
+          <attvalue for="a4" value="晚上"/>
+          <attvalue for="a5" value="情报学与竞争情报|数据挖掘与文本分析|信息政策与法规|文化遗产数字化"/>
+          <attvalue for="a6" value="生成式AI对情报分析方法的影响"/>
+          <attvalue for="a7" value="写作"/>
+          <attvalue for="a8" value="DeepSeek"/>
+          <attvalue for="a9" value="摄影|运动|音乐|旅行|烹饪"/>
+          <attvalue for="a10" value="统计分析"/>
+          <attvalue for="a11" value="编程实现|汇报讲述"/>
+        </attvalues>
+      </node>
+      <node id="n19" label="李卓柯">
+        <viz:position x="4298.4" y="272.0"/>
+        <viz:size value="24.5"/>
+        <viz:color r="47" g="93" b="80"/>
+        <attvalues>
+          <attvalue for="a0" value="四川"/>
+          <attvalue for="a1" value="INTP"/>
+          <attvalue for="a2" value="水瓶"/>
+          <attvalue for="a3" value="都可"/>
+          <attvalue for="a4" value="晚上"/>
+          <attvalue for="a5" value="数据挖掘与文本分析|用户信息行为"/>
+          <attvalue for="a6" value="生成式AI对情报分析方法的影响|信息资源管理专业的数字技能培养"/>
+          <attvalue for="a7" value="数据清洗|统计分析"/>
+          <attvalue for="a8" value="DeepSeek|WorkBuddy"/>
+          <attvalue for="a9" value="阅读|音乐|游戏|唱歌"/>
+          <attvalue for="a10" value="数据清洗|统计分析"/>
+          <attvalue for="a11" value="资料查找|文献梳理"/>
+        </attvalues>
+      </node>
+      <node id="n20" label="吴亿玮">
+        <viz:position x="2088.8" y="4312.0"/>
+        <viz:size value="30.3"/>
+        <viz:color r="24" g="95" b="165"/>
+        <attvalues>
+          <attvalue for="a0" value="陕西"/>
+          <attvalue for="a1" value="INFJ"/>
+          <attvalue for="a2" value="天蝎"/>
+          <attvalue for="a3" value="都可"/>
+          <attvalue for="a4" value="晚上"/>
+          <attvalue for="a5" value="档案管理实务|档案资源开发利用|图书馆学与阅读推广|机器学习与人工智能|政务信息资源管理"/>
+          <attvalue for="a6" value="AI生成内容对档案真实性的挑战|大语言模型能否替代传统信息组织|档案资源开发利用的伦理边界"/>
+          <attvalue for="a7" value="史料梳理|绘图设计|汇报讲述|翻译|文献综述"/>
+          <attvalue for="a8" value="ChatGPT|DeepSeek|WorkBuddy"/>
+          <attvalue for="a9" value="书法|绘画|运动|音乐|电影|旅行|手工|唱歌"/>
+          <attvalue for="a10" value="资料查找|可视化作图|文献梳理|AI工具指导|文稿校对|PPT制作|汇报讲述"/>
+          <attvalue for="a11" value="数据清洗|编程实现|访谈记录"/>
+        </attvalues>
+      </node>
+      <node id="n21" label="岳非">
+        <viz:position x="3119.2" y="1321.6"/>
+        <viz:size value="36.6"/>
+        <viz:color r="166" g="58" b="42"/>
+        <attvalues>
+          <attvalue for="a0" value="江苏"/>
+          <attvalue for="a1" value="INFJ"/>
+          <attvalue for="a2" value="白羊"/>
+          <attvalue for="a3" value="甜"/>
+          <attvalue for="a4" value="弹性"/>
+          <attvalue for="a5" value="情报学与竞争情报|知识图谱与语义网|数据挖掘与文本分析|自然语言处理|机器学习与人工智能|数据科学与大数据|用户信息行为"/>
+          <attvalue for="a6" value="大语言模型能否替代传统信息组织|知识图谱在人文研究中的应用边界|算法推荐对信息获取多样性的影响|生成式AI对情报分析方法的影响|信息资源管理专业的数字技能培养"/>
+          <attvalue for="a7" value="数据清洗|可视化|访谈记录|写作|汇报讲述|翻译|统计分析|问卷设计"/>
+          <attvalue for="a8" value="ChatGPT|DeepSeek|豆包|WorkBuddy"/>
+          <attvalue for="a9" value="摄影|阅读|音乐|电影|旅行|游戏|追剧|手工|舞蹈|唱歌|美食探店|动漫"/>
+          <attvalue for="a10" value="资料查找|数据清洗|可视化作图|访谈记录|文稿校对|PPT制作|汇报讲述|统计分析|翻译"/>
+          <attvalue for="a11" value="编程实现|文献梳理|AI工具指导"/>
+        </attvalues>
+      </node>
+      <node id="n22" label="刘一丹">
+        <viz:position x="5429.6" y="1716.0"/>
+        <viz:size value="28.9"/>
+        <viz:color r="107" g="91" b="149"/>
+        <attvalues>
+          <attvalue for="a0" value="河北"/>
+          <attvalue for="a1" value="INTP"/>
+          <attvalue for="a2" value="处女"/>
+          <attvalue for="a3" value="咸"/>
+          <attvalue for="a4" value="下午"/>
+          <attvalue for="a5" value="数字人文|用户信息行为|信息政策与法规"/>
+          <attvalue for="a6" value="开放科学背景下的学术数据共享|算法推荐对信息获取多样性的影响|信息资源管理专业的数字技能培养"/>
+          <attvalue for="a7" value="写作|汇报讲述|翻译|问卷设计"/>
+          <attvalue for="a8" value="DeepSeek|豆包|WorkBuddy"/>
+          <attvalue for="a9" value="摄影|阅读|运动|音乐|旅行|烹饪|追剧|手工|美食探店"/>
+          <attvalue for="a10" value="资料查找|访谈记录|文稿校对|PPT制作|汇报讲述|翻译"/>
+          <attvalue for="a11" value="可视化作图|编程实现|文献梳理|AI工具指导"/>
+        </attvalues>
+      </node>
+      <node id="n23" label="周梦菲">
+        <viz:position x="1820.0" y="1352.0"/>
+        <viz:size value="24.8"/>
+        <viz:color r="47" g="93" b="80"/>
+        <attvalues>
+          <attvalue for="a0" value="江苏"/>
+          <attvalue for="a1" value="ISFJ"/>
+          <attvalue for="a2" value="双鱼"/>
+          <attvalue for="a3" value="都可"/>
+          <attvalue for="a4" value="晚上"/>
+          <attvalue for="a5" value="机器学习与人工智能|学术评价与文献计量"/>
+          <attvalue for="a6" value="大语言模型能否替代传统信息组织|生成式AI对情报分析方法的影响"/>
+          <attvalue for="a7" value="统计分析|问卷设计"/>
+          <attvalue for="a8" value="DeepSeek|豆包|WorkBuddy"/>
+          <attvalue for="a9" value="运动|音乐|唱歌"/>
+          <attvalue for="a10" value="AI工具指导|统计分析"/>
+          <attvalue for="a11" value="数据清洗|可视化作图|编程实现"/>
+        </attvalues>
+      </node>
+      <node id="n24" label="熊静婷">
+        <viz:position x="3016.0" y="5348.8"/>
+        <viz:size value="26.8"/>
+        <viz:color r="91" g="107" b="124"/>
+        <attvalues>
+          <attvalue for="a0" value="安徽"/>
+          <attvalue for="a1" value="ISFP"/>
+          <attvalue for="a2" value="双鱼"/>
+          <attvalue for="a3" value="都可"/>
+          <attvalue for="a4" value="晚上"/>
+          <attvalue for="a5" value="数字档案与电子文件|档案资源开发利用"/>
+          <attvalue for="a6" value="AI生成内容对档案真实性的挑战|档案资源开发利用的伦理边界|信息资源管理专业的数字技能培养|电子文件长期保存与可信性"/>
+          <attvalue for="a7" value="史料梳理|问卷设计"/>
+          <attvalue for="a8" value="DeepSeek|豆包|WorkBuddy"/>
+          <attvalue for="a9" value="运动|旅行|美食探店"/>
+          <attvalue for="a10" value="资料查找|文献梳理|访谈记录|文稿校对|PPT制作"/>
+          <attvalue for="a11" value="可视化作图|编程实现|AI工具指导|汇报讲述"/>
+        </attvalues>
+      </node>
+      <node id="n25" label="邱芷霖">
+        <viz:position x="3383.2" y="321.6"/>
+        <viz:size value="24.3"/>
+        <viz:color r="166" g="58" b="42"/>
+        <attvalues>
+          <attvalue for="a0" value="辽宁"/>
+          <attvalue for="a1" value="INFP"/>
+          <attvalue for="a2" value="巨蟹"/>
+          <attvalue for="a3" value="咸"/>
+          <attvalue for="a4" value="晚上"/>
+          <attvalue for="a5" value="情报学与竞争情报|信息组织与检索|信息政策与法规"/>
+          <attvalue for="a6" value="算法推荐对信息获取多样性的影响"/>
+          <attvalue for="a7" value="写作|汇报讲述"/>
+          <attvalue for="a8" value="ChatGPT|Gemini|DeepSeek|豆包|WorkBuddy"/>
+          <attvalue for="a9" value="音乐|电影"/>
+          <attvalue for="a10" value="PPT制作|汇报讲述"/>
+          <attvalue for="a11" value="数据清洗|可视化作图|编程实现|统计分析"/>
+        </attvalues>
+      </node>
+      <node id="n26" label="莫洋欣蕊">
+        <viz:position x="2356.0" y="678.4"/>
+        <viz:size value="21.5"/>
+        <viz:color r="24" g="95" b="165"/>
+        <attvalues>
+          <attvalue for="a0" value="贵州"/>
+          <attvalue for="a1" value="INFP"/>
+          <attvalue for="a2" value="双鱼"/>
+          <attvalue for="a3" value="咸"/>
+          <attvalue for="a4" value="弹性"/>
+          <attvalue for="a5" value="档案资源开发利用"/>
+          <attvalue for="a6" value="AI生成内容对档案真实性的挑战"/>
+          <attvalue for="a7" value="统计分析"/>
+          <attvalue for="a8" value="DeepSeek|WorkBuddy"/>
+          <attvalue for="a9" value="摄影|音乐|旅行"/>
+          <attvalue for="a10" value="统计分析"/>
+          <attvalue for="a11" value="汇报讲述|翻译"/>
+        </attvalues>
+      </node>
+      <node id="n27" label="袁帅">
+        <viz:position x="1532.8" y="3312.8"/>
+        <viz:size value="28.5"/>
+        <viz:color r="91" g="107" b="124"/>
+        <attvalues>
+          <attvalue for="a0" value="江苏"/>
+          <attvalue for="a1" value="ENFJ"/>
+          <attvalue for="a2" value="双鱼"/>
+          <attvalue for="a3" value="都可"/>
+          <attvalue for="a4" value="弹性"/>
+          <attvalue for="a5" value="信息组织与检索|机器学习与人工智能|数字人文"/>
+          <attvalue for="a6" value="AI生成内容对档案真实性的挑战|开放科学背景下的学术数据共享|生成式AI对情报分析方法的影响|电子文件长期保存与可信性"/>
+          <attvalue for="a7" value="史料梳理|可视化|汇报讲述"/>
+          <attvalue for="a8" value="ChatGPT|Claude|DeepSeek|WorkBuddy"/>
+          <attvalue for="a9" value="摄影|音乐|电影|旅行|唱歌|咖啡品鉴|美食探店"/>
+          <attvalue for="a10" value="资料查找|可视化作图|PPT制作"/>
+          <attvalue for="a11" value="文献梳理|访谈记录|统计分析"/>
+        </attvalues>
+      </node>
+      <node id="n28" label="潘昕予">
+        <viz:position x="1387.2" y="2497.6"/>
+        <viz:size value="24.8"/>
+        <viz:color r="24" g="95" b="165"/>
+        <attvalues>
+          <attvalue for="a0" value="江苏"/>
+          <attvalue for="a1" value="ISFJ"/>
+          <attvalue for="a2" value="天蝎"/>
+          <attvalue for="a3" value="咸"/>
+          <attvalue for="a4" value="晚上"/>
+          <attvalue for="a5" value="档案学基础理论|机器学习与人工智能"/>
+          <attvalue for="a6" value="AI生成内容对档案真实性的挑战"/>
+          <attvalue for="a7" value="汇报讲述|翻译|文献综述"/>
+          <attvalue for="a8" value="ChatGPT|DeepSeek|豆包"/>
+          <attvalue for="a9" value="钢琴|音乐|电影|游戏|唱歌"/>
+          <attvalue for="a10" value="文献梳理|文稿校对|翻译"/>
+          <attvalue for="a11" value="数据清洗|编程实现|AI工具指导|统计分析"/>
+        </attvalues>
+      </node>
+      <node id="n29" label="许昊妍">
+        <viz:position x="2076.0" y="2032.8"/>
+        <viz:size value="31.0"/>
+        <viz:color r="47" g="93" b="80"/>
+        <attvalues>
+          <attvalue for="a0" value="内蒙古"/>
+          <attvalue for="a1" value="ISTJ"/>
+          <attvalue for="a2" value="白羊"/>
+          <attvalue for="a3" value="咸"/>
+          <attvalue for="a4" value="弹性"/>
+          <attvalue for="a5" value="数据挖掘与文本分析|自然语言处理|机器学习与人工智能|数据科学与大数据|学术评价与文献计量"/>
+          <attvalue for="a6" value="AI生成内容对档案真实性的挑战|大语言模型能否替代传统信息组织|知识图谱在人文研究中的应用边界|智慧图书馆的用户隐私保护|算法推荐对信息获取多样性的影响|生成式AI对情报分析方法的影响"/>
+          <attvalue for="a7" value="可视化|翻译|统计分析|问卷设计"/>
+          <attvalue for="a8" value="ChatGPT|DeepSeek|豆包|WorkBuddy"/>
+          <attvalue for="a9" value="钢琴|音乐|电影|追剧|唱歌|美食探店"/>
+          <attvalue for="a10" value="资料查找|可视化作图|PPT制作|统计分析|翻译"/>
+          <attvalue for="a11" value="编程实现|文献梳理|汇报讲述"/>
+        </attvalues>
+      </node>
+      <node id="n30" label="丁奕">
+        <viz:position x="2044.0" y="953.6"/>
+        <viz:size value="23.5"/>
+        <viz:color r="138" g="90" b="27"/>
+        <attvalues>
+          <attvalue for="a0" value="江苏"/>
+          <attvalue for="a1" value="ISFP"/>
+          <attvalue for="a2" value="巨蟹"/>
+          <attvalue for="a3" value="都可"/>
+          <attvalue for="a4" value="弹性"/>
+          <attvalue for="a5" value="图书馆学与阅读推广"/>
+          <attvalue for="a6" value="大语言模型能否替代传统信息组织|信息资源管理专业的数字技能培养"/>
+          <attvalue for="a7" value="史料梳理"/>
+          <attvalue for="a8" value="DeepSeek|豆包|WorkBuddy"/>
+          <attvalue for="a9" value="阅读|音乐|游戏|追剧|手工|唱歌"/>
+          <attvalue for="a10" value="资料查找|PPT制作"/>
+          <attvalue for="a11" value="汇报讲述"/>
+        </attvalues>
+      </node>
+      <node id="n31" label="王泽琳">
+        <viz:position x="6186.4" y="2404.8"/>
+        <viz:size value="28.7"/>
+        <viz:color r="166" g="58" b="42"/>
+        <attvalues>
+          <attvalue for="a0" value="江苏"/>
+          <attvalue for="a1" value="INTP"/>
+          <attvalue for="a2" value="白羊"/>
+          <attvalue for="a3" value="甜"/>
+          <attvalue for="a4" value="弹性"/>
+          <attvalue for="a5" value="情报学与竞争情报|用户信息行为"/>
+          <attvalue for="a6" value="生成式AI对情报分析方法的影响"/>
+          <attvalue for="a7" value="写作|统计分析|文献综述"/>
+          <attvalue for="a8" value="ChatGPT|DeepSeek|豆包|WorkBuddy"/>
+          <attvalue for="a9" value="绘画|阅读|运动|游戏|追剧|手工"/>
+          <attvalue for="a10" value="访谈记录"/>
+          <attvalue for="a11" value="资料查找|编程实现|访谈记录|文稿校对|PPT制作|汇报讲述|统计分析"/>
+        </attvalues>
+      </node>
+      <node id="n32" label="刘赞文">
+        <viz:position x="2663.2" y="553.6"/>
+        <viz:size value="23.5"/>
+        <viz:color r="24" g="95" b="165"/>
+        <attvalues>
+          <attvalue for="a0" value="江苏"/>
+          <attvalue for="a1" value="ISFJ"/>
+          <attvalue for="a2" value="天蝎"/>
+          <attvalue for="a3" value="都可"/>
+          <attvalue for="a4" value="弹性"/>
+          <attvalue for="a5" value="档案学基础理论|数据科学与大数据|信息资源管理教育"/>
+          <attvalue for="a6" value="知识图谱在人文研究中的应用边界|档案资源开发利用的伦理边界|文化遗产数字化中的众包模式"/>
+          <attvalue for="a7" value="访谈记录|汇报讲述"/>
+          <attvalue for="a8" value="ChatGPT|DeepSeek|WorkBuddy"/>
+          <attvalue for="a9" value="游戏"/>
+          <attvalue for="a10" value="资料查找|AI工具指导|汇报讲述"/>
+          <attvalue for="a11" value="数据清洗|编程实现|汇报讲述"/>
+        </attvalues>
+      </node>
+      <node id="n33" label="许靖雯">
+        <viz:position x="1176.0" y="3432.0"/>
+        <viz:size value="23.1"/>
+        <viz:color r="91" g="107" b="124"/>
+        <attvalues>
+          <attvalue for="a0" value="江苏"/>
+          <attvalue for="a1" value="ISFJ"/>
+          <attvalue for="a2" value="射手"/>
+          <attvalue for="a3" value="甜"/>
+          <attvalue for="a4" value="弹性"/>
+          <attvalue for="a5" value="信息政策与法规"/>
+          <attvalue for="a6" value="信息资源管理专业的数字技能培养"/>
+          <attvalue for="a7" value="数据清洗"/>
+          <attvalue for="a8" value="WorkBuddy"/>
+          <attvalue for="a9" value="绘画|摄影|阅读|音乐|电影|旅行|烹饪|追剧|手工|咖啡品鉴"/>
+          <attvalue for="a10" value="数据清洗|访谈记录|PPT制作"/>
+          <attvalue for="a11" value="数据清洗|文献梳理|AI工具指导|汇报讲述"/>
+        </attvalues>
+      </node>
+      <node id="n34" label="刘学颐">
+        <viz:position x="1278.4" y="2144.8"/>
+        <viz:size value="25.8"/>
+        <viz:color r="47" g="93" b="80"/>
+        <attvalues>
+          <attvalue for="a0" value="江苏"/>
+          <attvalue for="a1" value="ENTP"/>
+          <attvalue for="a2" value="双鱼"/>
+          <attvalue for="a3" value="咸"/>
+          <attvalue for="a4" value="上午"/>
+          <attvalue for="a5" value="机器学习与人工智能"/>
+          <attvalue for="a6" value="大语言模型能否替代传统信息组织"/>
+          <attvalue for="a7" value="绘图设计"/>
+          <attvalue for="a8" value="ChatGPT|DeepSeek|豆包|Kimi|WorkBuddy|其他"/>
+          <attvalue for="a9" value="书法|运动|音乐|电影|旅行|游戏|棋类|骑行|美食探店"/>
+          <attvalue for="a10" value="编程实现|AI工具指导|PPT制作"/>
+          <attvalue for="a11" value="资料查找"/>
+        </attvalues>
+      </node>
+      <node id="n35" label="王音奇">
+        <viz:position x="4048.0" y="5572.8"/>
+        <viz:size value="27.5"/>
+        <viz:color r="24" g="95" b="165"/>
+        <attvalues>
+          <attvalue for="a0" value="江苏"/>
+          <attvalue for="a1" value="ENFJ"/>
+          <attvalue for="a2" value="天蝎"/>
+          <attvalue for="a3" value="都可"/>
+          <attvalue for="a4" value="晚上"/>
+          <attvalue for="a5" value="档案学基础理论|档案资源开发利用"/>
+          <attvalue for="a6" value="AI生成内容对档案真实性的挑战|档案资源开发利用的伦理边界|生成式AI对情报分析方法的影响"/>
+          <attvalue for="a7" value="史料梳理|翻译|文献综述"/>
+          <attvalue for="a8" value="DeepSeek|豆包|WorkBuddy"/>
+          <attvalue for="a9" value="阅读|音乐|追剧|舞蹈"/>
+          <attvalue for="a10" value="资料查找|文献梳理|文稿校对|汇报讲述|翻译"/>
+          <attvalue for="a11" value="可视化作图|编程实现"/>
+        </attvalues>
+      </node>
+      <node id="n36" label="高橙">
+        <viz:position x="1526.4" y="4305.6"/>
+        <viz:size value="23.0"/>
+        <viz:color r="24" g="95" b="165"/>
+        <attvalues>
+          <attvalue for="a0" value="安徽"/>
+          <attvalue for="a1" value="ENFP"/>
+          <attvalue for="a2" value="金牛"/>
+          <attvalue for="a3" value="都可"/>
+          <attvalue for="a4" value="下午"/>
+          <attvalue for="a5" value="档案资源开发利用|数字人文"/>
+          <attvalue for="a6" value="知识图谱在人文研究中的应用边界"/>
+          <attvalue for="a7" value="写作"/>
+          <attvalue for="a8" value="DeepSeek|豆包|WorkBuddy"/>
+          <attvalue for="a9" value="摄影|阅读|音乐"/>
+          <attvalue for="a10" value="文稿校对|PPT制作|汇报讲述"/>
+          <attvalue for="a11" value="数据清洗|可视化作图"/>
+        </attvalues>
+      </node>
+      <node id="n37" label="董慧鑫">
+        <viz:position x="3838.4" y="5865.6"/>
+        <viz:size value="23.9"/>
+        <viz:color r="24" g="95" b="165"/>
+        <attvalues>
+          <attvalue for="a0" value="河北"/>
+          <attvalue for="a1" value="INTJ"/>
+          <attvalue for="a2" value="摩羯"/>
+          <attvalue for="a3" value="都可"/>
+          <attvalue for="a4" value="下午"/>
+          <attvalue for="a5" value="档案资源开发利用|文化遗产数字化"/>
+          <attvalue for="a6" value="档案资源开发利用的伦理边界|信息资源管理专业的数字技能培养"/>
+          <attvalue for="a7" value="史料梳理|访谈记录|文献综述"/>
+          <attvalue for="a8" value="DeepSeek|豆包|WorkBuddy"/>
+          <attvalue for="a9" value="旅行|棋类|美食探店"/>
+          <attvalue for="a10" value="资料查找|文献梳理"/>
+          <attvalue for="a11" value="编程实现|汇报讲述|统计分析"/>
+        </attvalues>
+      </node>
+      <node id="n38" label="尹一凡">
+        <viz:position x="5100.0" y="3961.6"/>
+        <viz:size value="30.4"/>
+        <viz:color r="91" g="107" b="124"/>
+        <attvalues>
+          <attvalue for="a0" value="江苏"/>
+          <attvalue for="a1" value="INFJ"/>
+          <attvalue for="a2" value="天秤"/>
+          <attvalue for="a3" value="都可"/>
+          <attvalue for="a4" value="晚上"/>
+          <attvalue for="a5" value="数字档案与电子文件|档案资源开发利用|数据科学与大数据"/>
+          <attvalue for="a6" value="开放科学背景下的学术数据共享|生成式AI对情报分析方法的影响"/>
+          <attvalue for="a7" value="绘图设计|统计分析"/>
+          <attvalue for="a8" value="DeepSeek|WorkBuddy"/>
+          <attvalue for="a9" value="绘画|动漫"/>
+          <attvalue for="a10" value="资料查找|可视化作图|文献梳理|AI工具指导|文稿校对|PPT制作|统计分析"/>
+          <attvalue for="a11" value="资料查找|数据清洗|可视化作图|编程实现|文献梳理|AI工具指导|访谈记录|文稿校对|PPT制作|汇报讲述|统计分析|翻译"/>
+        </attvalues>
+      </node>
+      <node id="n39" label="屠媛媛">
+        <viz:position x="3178.4" y="4463.2"/>
+        <viz:size value="33.4"/>
+        <viz:color r="24" g="95" b="165"/>
+        <attvalues>
+          <attvalue for="a0" value="安徽"/>
+          <attvalue for="a1" value="ENFJ"/>
+          <attvalue for="a2" value="射手"/>
+          <attvalue for="a3" value="甜"/>
+          <attvalue for="a4" value="弹性"/>
+          <attvalue for="a5" value="档案学基础理论|档案资源开发利用|情报学与竞争情报|信息组织与检索|机器学习与人工智能|数字人文|用户信息行为"/>
+          <attvalue for="a6" value="AI生成内容对档案真实性的挑战|大语言模型能否替代传统信息组织|知识图谱在人文研究中的应用边界|开放科学背景下的学术数据共享|生成式AI对情报分析方法的影响|信息资源管理专业的数字技能培养"/>
+          <attvalue for="a7" value="史料梳理|访谈记录|绘图设计|汇报讲述"/>
+          <attvalue for="a8" value="DeepSeek|豆包|WorkBuddy"/>
+          <attvalue for="a9" value="运动|音乐|电影|追剧"/>
+          <attvalue for="a10" value="资料查找|AI工具指导|PPT制作|汇报讲述"/>
+          <attvalue for="a11" value="资料查找|数据清洗|可视化作图|文献梳理|统计分析"/>
+        </attvalues>
+      </node>
+      <node id="n40" label="潘泽鑫">
+        <viz:position x="5195.2" y="5631.2"/>
+        <viz:size value="22.1"/>
+        <viz:color r="47" g="93" b="80"/>
+        <attvalues>
+          <attvalue for="a0" value="辽宁"/>
+          <attvalue for="a1" value="ISTJ"/>
+          <attvalue for="a2" value="天蝎"/>
+          <attvalue for="a3" value="都可"/>
+          <attvalue for="a4" value="弹性"/>
+          <attvalue for="a5" value="用户信息行为"/>
+          <attvalue for="a6" value="档案资源开发利用的伦理边界|生成式AI对情报分析方法的影响"/>
+          <attvalue for="a7" value="统计分析|问卷设计"/>
+          <attvalue for="a8" value="WorkBuddy"/>
+          <attvalue for="a9" value="电影|追剧|棋类"/>
+          <attvalue for="a10" value="可视化作图|访谈记录|文稿校对|统计分析"/>
+          <attvalue for="a11" value="编程实现|PPT制作"/>
+        </attvalues>
+      </node>
+      <node id="n41" label="滕巍">
+        <viz:position x="2727.2" y="930.4"/>
+        <viz:size value="28.2"/>
+        <viz:color r="24" g="95" b="165"/>
+        <attvalues>
+          <attvalue for="a0" value="浙江"/>
+          <attvalue for="a1" value="INFJ"/>
+          <attvalue for="a2" value="天蝎"/>
+          <attvalue for="a3" value="都可"/>
+          <attvalue for="a4" value="下午"/>
+          <attvalue for="a5" value="档案资源开发利用|情报学与竞争情报|图书馆学与阅读推广|数据挖掘与文本分析|数字人文|用户信息行为|文化遗产数字化"/>
+          <attvalue for="a6" value="AI生成内容对档案真实性的挑战|算法推荐对信息获取多样性的影响|生成式AI对情报分析方法的影响"/>
+          <attvalue for="a7" value="统计分析|问卷设计"/>
+          <attvalue for="a8" value="DeepSeek|WorkBuddy|其他"/>
+          <attvalue for="a9" value="音乐|追剧|手工|咖啡品鉴|美食探店|动漫"/>
+          <attvalue for="a10" value="资料查找|文献梳理|文稿校对"/>
+          <attvalue for="a11" value="数据清洗|编程实现|AI工具指导|汇报讲述"/>
+        </attvalues>
+      </node>
+      <node id="n42" label="朱紫怡">
+        <viz:position x="3529.6" y="5780.0"/>
+        <viz:size value="20.5"/>
+        <viz:color r="166" g="58" b="42"/>
+        <attvalues>
+          <attvalue for="a0" value="浙江"/>
+          <attvalue for="a1" value="ISTP"/>
+          <attvalue for="a2" value="金牛"/>
+          <attvalue for="a3" value="都可"/>
+          <attvalue for="a4" value="晚上"/>
+          <attvalue for="a5" value="情报学与竞争情报"/>
+          <attvalue for="a6" value="生成式AI对情报分析方法的影响"/>
+          <attvalue for="a7" value="翻译"/>
+          <attvalue for="a8" value="ChatGPT|DeepSeek"/>
+          <attvalue for="a9" value="音乐|电影|游戏|美食探店"/>
+          <attvalue for="a10" value="可视化作图"/>
+          <attvalue for="a11" value="可视化作图"/>
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="e0" source="n8" target="n21" weight="54.8" label="同乡×1、同MBTI×1、同口味×1、同时段×1、同学方向×6、同话题×4、同技能×4、同工具×3、同兴趣×7、A可供B×2、B可供A×9">
+        <viz:thickness value="3.80"/>
+        <viz:color r="24" g="95" b="165" a="0.55"/>
+      </edge>
+      <edge id="e1" source="n10" target="n21" weight="50.5" label="同乡×1、同时段×1、同学方向×5、同话题×4、同技能×4、同工具×3、同兴趣×7、A可供B×1、B可供A×9">
+        <viz:thickness value="3.64"/>
+        <viz:color r="31" g="99" b="165" a="0.55"/>
+      </edge>
+      <edge id="e2" source="n9" target="n10" weight="49.8" label="同乡×1、同口味×1、同时段×1、同话题×6、同技能×2、同工具×3、同兴趣×3、A可供B×12、B可供A×6">
+        <viz:thickness value="3.61"/>
+        <viz:color r="33" g="99" b="165" a="0.55"/>
+      </edge>
+      <edge id="e3" source="n8" target="n9" weight="48.8" label="同乡×1、同MBTI×1、同时段×1、同话题×5、同技能×2、同工具×2、同兴趣×2、A可供B×8、B可供A×12">
+        <viz:thickness value="3.57"/>
+        <viz:color r="35" g="100" b="165" a="0.55"/>
+      </edge>
+      <edge id="e4" source="n8" target="n10" weight="47.3" label="同乡×1、同时段×1、同学方向×5、同话题×3、同技能×2、同工具×2、同兴趣×4、A可供B×8、B可供A×6">
+        <viz:thickness value="3.51"/>
+        <viz:color r="37" g="102" b="166" a="0.55"/>
+      </edge>
+      <edge id="e5" source="n9" target="n21" weight="41.5" label="同乡×1、同MBTI×1、同时段×1、同话题×5、同技能×3、同工具×3、同兴趣×4、A可供B×3、B可供A×9">
+        <viz:thickness value="3.28"/>
+        <viz:color r="49" g="107" b="166" a="0.55"/>
+      </edge>
+      <edge id="e6" source="n8" target="n29" weight="40.5" label="同时段×1、同学方向×5、同话题×4、同技能×2、同工具×3、同兴趣×5、A可供B×2、B可供A×5">
+        <viz:thickness value="3.24"/>
+        <viz:color r="51" g="108" b="167" a="0.55"/>
+      </edge>
+      <edge id="e7" source="n9" target="n38" weight="39.7" label="同乡×1、同MBTI×1、同口味×1、同学方向×1、同话题×2、同技能×1、同工具×2、A可供B×12、B可供A×7">
+        <viz:thickness value="3.20"/>
+        <viz:color r="52" g="109" b="167" a="0.55"/>
+      </edge>
+      <edge id="e8" source="n9" target="n39" weight="34.5" label="同时段×1、同学方向×2、同话题×6、同工具×3、同兴趣×1、A可供B×5、B可供A×4">
+        <viz:thickness value="2.98"/>
+        <viz:color r="62" g="115" b="168" a="0.55"/>
+      </edge>
+      <edge id="e9" source="n10" target="n39" weight="34.0" label="同时段×1、同学方向×4、同话题×4、同技能×1、同工具×3、同兴趣×2、A可供B×3、B可供A×4">
+        <viz:thickness value="2.95"/>
+        <viz:color r="63" g="115" b="168" a="0.55"/>
+      </edge>
+      <edge id="e10" source="n21" target="n29" weight="34.0" label="同星座×1、同时段×1、同学方向×4、同话题×4、同技能×4、同工具×4、同兴趣×5、A可供B×1">
+        <viz:thickness value="2.95"/>
+        <viz:color r="63" g="115" b="168" a="0.55"/>
+      </edge>
+      <edge id="e11" source="n9" target="n29" weight="33.0" label="同时段×1、同话题×6、同技能×2、同工具×3、同兴趣×2、A可供B×3、B可供A×5">
+        <viz:thickness value="2.91"/>
+        <viz:color r="66" g="116" b="168" a="0.55"/>
+      </edge>
+      <edge id="e12" source="n8" target="n39" weight="32.6" label="同口味×1、同时段×1、同学方向×3、同话题×5、同工具×2、同兴趣×3、A可供B×3、B可供A×4">
+        <viz:thickness value="2.89"/>
+        <viz:color r="66" g="117" b="168" a="0.55"/>
+      </edge>
+      <edge id="e13" source="n21" target="n39" weight="31.8" label="同口味×1、同时段×1、同学方向×3、同话题×4、同技能×2、同工具×3、同兴趣×3、A可供B×4、B可供A×1">
+        <viz:thickness value="2.85"/>
+        <viz:color r="68" g="117" b="168" a="0.55"/>
+      </edge>
+      <edge id="e14" source="n8" target="n20" weight="31.1" label="同MBTI×1、同学方向×1、同话题×2、同技能×1、同工具×3、同兴趣×6、A可供B×2、B可供A×7">
+        <viz:thickness value="2.82"/>
+        <viz:color r="69" g="118" b="168" a="0.55"/>
+      </edge>
+      <edge id="e15" source="n10" target="n22" weight="31.1" label="同学方向×1、同话题×3、同技能×1、同工具×3、同兴趣×6、A可供B×2、B可供A×6">
+        <viz:thickness value="2.82"/>
+        <viz:color r="69" g="118" b="168" a="0.55"/>
+      </edge>
+      <edge id="e16" source="n10" target="n29" weight="30.5" label="同时段×1、同学方向×3、同话题×4、同技能×2、同工具×3、同兴趣×2、B可供A×5">
+        <viz:thickness value="2.79"/>
+        <viz:color r="71" g="119" b="168" a="0.55"/>
+      </edge>
+      <edge id="e17" source="n10" target="n12" weight="30.2" label="同口味×1、同学方向×1、同话题×3、同技能×2、同工具×2、同兴趣×3、A可供B×1、B可供A×8">
+        <viz:thickness value="2.78"/>
+        <viz:color r="71" g="119" b="168" a="0.55"/>
+      </edge>
+      <edge id="e18" source="n8" target="n38" weight="29.9" label="同乡×1、同MBTI×1、同学方向×1、同话题×1、同工具×2、A可供B×8、B可供A×7">
+        <viz:thickness value="2.76"/>
+        <viz:color r="72" g="119" b="168" a="0.55"/>
+      </edge>
+      <edge id="e19" source="n5" target="n21" weight="29.1" label="同学方向×5、同话题×4、同工具×3、同兴趣×6、A可供B×1">
+        <viz:thickness value="2.73"/>
+        <viz:color r="74" g="120" b="168" a="0.55"/>
+      </edge>
+      <edge id="e20" source="n9" target="n22" weight="29.1" label="同话题×3、同技能×1、同工具×3、同兴趣×3、A可供B×4、B可供A×6">
+        <viz:thickness value="2.73"/>
+        <viz:color r="74" g="120" b="168" a="0.55"/>
+      </edge>
+      <edge id="e21" source="n8" target="n12" weight="28.4" label="同学方向×2、同话题×2、同工具×2、同兴趣×3、A可供B×2、B可供A×8">
+        <viz:thickness value="2.69"/>
+        <viz:color r="75" g="121" b="169" a="0.55"/>
+      </edge>
+      <edge id="e22" source="n9" target="n24" weight="28.4" label="同口味×1、同学方向×1、同话题×4、同工具×3、同兴趣×1、A可供B×4、B可供A×5">
+        <viz:thickness value="2.69"/>
+        <viz:color r="75" g="121" b="169" a="0.55"/>
+      </edge>
+      <edge id="e23" source="n21" target="n31" weight="28.3" label="同乡×1、同星座×1、同口味×1、同时段×1、同学方向×2、同话题×1、同技能×2、同工具×4、同兴趣×4、A可供B×6">
+        <viz:thickness value="2.69"/>
+        <viz:color r="75" g="121" b="169" a="0.55"/>
+      </edge>
+      <edge id="e24" source="n10" target="n38" weight="28.2" label="同乡×1、同口味×1、同话题×2、同技能×1、同工具×2、A可供B×6、B可供A×7">
+        <viz:thickness value="2.68"/>
+        <viz:color r="75" g="121" b="169" a="0.55"/>
+      </edge>
+      <edge id="e25" source="n5" target="n8" weight="27.4" label="同学方向×5、同话题×3、同技能×1、同工具×2、同兴趣×6、A可供B×1">
+        <viz:thickness value="2.64"/>
+        <viz:color r="77" g="122" b="169" a="0.55"/>
+      </edge>
+      <edge id="e26" source="n2" target="n9" weight="27.1" label="同学方向×1、同话题×1、同技能×1、同工具×3、同兴趣×3、A可供B×6、B可供A×4">
+        <viz:thickness value="2.63"/>
+        <viz:color r="78" g="122" b="169" a="0.55"/>
+      </edge>
+      <edge id="e27" source="n8" target="n22" weight="26.9" label="同话题×1、同技能×2、同工具×2、同兴趣×6、A可供B×3、B可供A×6">
+        <viz:thickness value="2.62"/>
+        <viz:color r="78" g="123" b="169" a="0.55"/>
+      </edge>
+      <edge id="e28" source="n9" target="n35" weight="26.9" label="同乡×1、同口味×1、同学方向×2、同话题×3、同工具×3、同兴趣×2、A可供B×2、B可供A×5">
+        <viz:thickness value="2.62"/>
+        <viz:color r="78" g="123" b="169" a="0.55"/>
+      </edge>
+      <edge id="e29" source="n7" target="n8" weight="26.7" label="同口味×1、同学方向×2、同话题×1、同技能×2、同工具×2、同兴趣×3、A可供B×5、B可供A×3">
+        <viz:thickness value="2.61"/>
+        <viz:color r="79" g="123" b="169" a="0.55"/>
+      </edge>
+      <edge id="e30" source="n9" target="n41" weight="26.4" label="同MBTI×1、同口味×1、同学方向×1、同话题×3、同技能×1、同工具×3、同兴趣×2、A可供B×4、B可供A×3">
+        <viz:thickness value="2.59"/>
+        <viz:color r="79" g="123" b="169" a="0.55"/>
+      </edge>
+      <edge id="e31" source="n21" target="n38" weight="26.4" label="同乡×1、同MBTI×1、同学方向×1、同话题×1、同技能×1、同工具×2、同兴趣×1、A可供B×9、B可供A×2">
+        <viz:thickness value="2.59"/>
+        <viz:color r="79" g="123" b="169" a="0.55"/>
+      </edge>
+      <edge id="e32" source="n9" target="n12" weight="26.2" label="同口味×1、同话题×3、同技能×1、同工具×2、同兴趣×1、A可供B×2、B可供A×8">
+        <viz:thickness value="2.58"/>
+        <viz:color r="80" g="123" b="169" a="0.55"/>
+      </edge>
+      <edge id="e33" source="n9" target="n20" weight="26.2" label="同MBTI×1、同口味×1、同学方向×1、同话题×3、同工具×2、A可供B×3、B可供A×7">
+        <viz:thickness value="2.58"/>
+        <viz:color r="80" g="123" b="169" a="0.55"/>
+      </edge>
+      <edge id="e34" source="n9" target="n15" weight="25.9" label="同乡×1、同口味×1、同学方向×2、同话题×3、同技能×1、同工具×3、同兴趣×1、A可供B×4、B可供A×2">
+        <viz:thickness value="2.57"/>
+        <viz:color r="80" g="124" b="169" a="0.55"/>
+      </edge>
+      <edge id="e35" source="n7" target="n9" weight="25.6" label="同话题×2、同技能×2、同工具×3、同兴趣×3、A可供B×5、B可供A×3">
+        <viz:thickness value="2.55"/>
+        <viz:color r="81" g="124" b="169" a="0.55"/>
+      </edge>
+      <edge id="e36" source="n0" target="n9" weight="25.4" label="同口味×1、同学方向×1、同话题×4、同技能×1、同工具×3、同兴趣×1、A可供B×3、B可供A×3">
+        <viz:thickness value="2.54"/>
+        <viz:color r="81" g="124" b="169" a="0.55"/>
+      </edge>
+      <edge id="e37" source="n21" target="n41" weight="25.4" label="同MBTI×1、同学方向×3、同话题×2、同技能×2、同工具×2、同兴趣×5、A可供B×2、B可供A×1">
+        <viz:thickness value="2.54"/>
+        <viz:color r="81" g="124" b="169" a="0.55"/>
+      </edge>
+      <edge id="e38" source="n5" target="n29" weight="25.1" label="同学方向×4、同话题×4、同工具×3、同兴趣×4、A可供B×1">
+        <viz:thickness value="2.53"/>
+        <viz:color r="82" g="125" b="169" a="0.55"/>
+      </edge>
+      <edge id="e39" source="n10" target="n41" weight="24.7" label="同口味×1、同学方向×3、同话题×2、同技能×1、同工具×2、同兴趣×3、A可供B×2、B可供A×3">
+        <viz:thickness value="2.51"/>
+        <viz:color r="83" g="125" b="169" a="0.55"/>
+      </edge>
+      <edge id="e40" source="n8" target="n27" weight="24.5" label="同乡×1、同时段×1、同学方向×2、同话题×2、同技能×1、同工具×3、同兴趣×6、B可供A×3">
+        <viz:thickness value="2.50"/>
+        <viz:color r="83" g="125" b="169" a="0.55"/>
+      </edge>
+      <edge id="e41" source="n9" target="n17" weight="24.5" label="同时段×1、同学方向×2、同话题×3、同工具×3、同兴趣×3、A可供B×3、B可供A×2">
+        <viz:thickness value="2.50"/>
+        <viz:color r="83" g="125" b="169" a="0.55"/>
+      </edge>
+      <edge id="e42" source="n9" target="n31" weight="24.5" label="同乡×1、同时段×1、同话题×1、同技能×2、同工具×3、同兴趣×3、A可供B×7、B可供A×1">
+        <viz:thickness value="2.50"/>
+        <viz:color r="83" g="125" b="169" a="0.55"/>
+      </edge>
+      <edge id="e43" source="n21" target="n22" weight="24.1" label="同学方向×1、同话题×2、同技能×4、同工具×3、同兴趣×7、A可供B×1">
+        <viz:thickness value="2.48"/>
+        <viz:color r="84" g="126" b="169" a="0.55"/>
+      </edge>
+      <edge id="e44" source="n10" target="n11" weight="23.8" label="同乡×1、同口味×1、同时段×1、同话题×1、同技能×3、同工具×3、同兴趣×2、A可供B×1、B可供A×6">
+        <viz:thickness value="2.46"/>
+        <viz:color r="85" g="126" b="169" a="0.55"/>
+      </edge>
+      <edge id="e45" source="n1" target="n9" weight="23.7" label="同口味×1、同学方向×1、同话题×3、同技能×1、同工具×2、同兴趣×1、A可供B×5、B可供A×2">
+        <viz:thickness value="2.46"/>
+        <viz:color r="85" g="126" b="169" a="0.55"/>
+      </edge>
+      <edge id="e46" source="n0" target="n8" weight="23.6" label="同话题×2、同技能×2、同工具×3、同兴趣×4、A可供B×3、B可供A×3">
+        <viz:thickness value="2.45"/>
+        <viz:color r="85" g="126" b="169" a="0.55"/>
+      </edge>
+      <edge id="e47" source="n10" target="n27" weight="23.6" label="同乡×1、同口味×1、同时段×1、同学方向×2、同话题×2、同技能×2、同工具×2、同兴趣×3、A可供B×1、B可供A×3">
+        <viz:thickness value="2.45"/>
+        <viz:color r="85" g="126" b="169" a="0.55"/>
+      </edge>
+      <edge id="e48" source="n8" target="n11" weight="23.5" label="同乡×1、同时段×1、同话题×2、同技能×1、同工具×3、同兴趣×3、A可供B×1、B可供A×6">
+        <viz:thickness value="2.45"/>
+        <viz:color r="85" g="126" b="169" a="0.55"/>
+      </edge>
+      <edge id="e49" source="n4" target="n8" weight="23.4" label="同乡×1、同星座×1、同学方向×2、同话题×1、同技能×2、同工具×3、同兴趣×1、A可供B×4、B可供A×2">
+        <viz:thickness value="2.44"/>
+        <viz:color r="86" g="127" b="169" a="0.55"/>
+      </edge>
+      <edge id="e50" source="n8" target="n41" weight="23.4" label="同MBTI×1、同学方向×2、同话题×2、同工具×2、同兴趣×2、A可供B×4、B可供A×3">
+        <viz:thickness value="2.44"/>
+        <viz:color r="86" g="127" b="169" a="0.55"/>
+      </edge>
+      <edge id="e51" source="n27" target="n39" weight="23.3" label="同MBTI×1、同时段×1、同学方向×3、同话题×3、同技能×2、同工具×2、同兴趣×2、A可供B×2">
+        <viz:thickness value="2.44"/>
+        <viz:color r="86" g="127" b="169" a="0.55"/>
+      </edge>
+      <edge id="e52" source="n0" target="n39" weight="23.1" label="同学方向×1、同话题×3、同技能×3、同工具×3、同兴趣×1、A可供B×3、B可供A×1">
+        <viz:thickness value="2.42"/>
+        <viz:color r="86" g="127" b="169" a="0.55"/>
+      </edge>
+      <edge id="e53" source="n7" target="n10" weight="23.1" label="同学方向×1、同技能×3、同工具×3、同兴趣×4、A可供B×5、B可供A×1">
+        <viz:thickness value="2.42"/>
+        <viz:color r="86" g="127" b="169" a="0.55"/>
+      </edge>
+      <edge id="e54" source="n9" target="n27" weight="23.1" label="同乡×1、同口味×1、同时段×1、同话题×4、同技能×1、同工具×2、同兴趣×1、A可供B×3、B可供A×3">
+        <viz:thickness value="2.42"/>
+        <viz:color r="86" g="127" b="169" a="0.55"/>
+      </edge>
+      <edge id="e55" source="n29" target="n39" weight="23.0" label="同时段×1、同学方向×1、同话题×4、同工具×3、同兴趣×3、A可供B×3、B可供A×1">
+        <viz:thickness value="2.42"/>
+        <viz:color r="87" g="127" b="170" a="0.55"/>
+      </edge>
+      <edge id="e56" source="n8" target="n24" weight="22.9" label="同话题×2、同工具×2、同兴趣×3、A可供B×4、B可供A×5">
+        <viz:thickness value="2.41"/>
+        <viz:color r="87" g="127" b="170" a="0.55"/>
+      </edge>
+      <edge id="e57" source="n4" target="n21" weight="22.8" label="同乡×1、同学方向×2、同技能×3、同工具×4、同兴趣×3、A可供B×1、B可供A×3">
+        <viz:thickness value="2.41"/>
+        <viz:color r="87" g="127" b="170" a="0.55"/>
+      </edge>
+      <edge id="e58" source="n9" target="n11" weight="22.8" label="同乡×1、同口味×1、同时段×1、同学方向×1、同话题×2、同技能×1、同工具×3、A可供B×1、B可供A×6">
+        <viz:thickness value="2.41"/>
+        <viz:color r="87" g="127" b="170" a="0.55"/>
+      </edge>
+      <edge id="e59" source="n20" target="n39" weight="22.4" label="同学方向×2、同话题×2、同技能×3、同工具×2、同兴趣×3、A可供B×3">
+        <viz:thickness value="2.39"/>
+        <viz:color r="88" g="128" b="170" a="0.55"/>
+      </edge>
+      <edge id="e60" source="n39" target="n41" weight="22.4" label="同学方向×4、同话题×2、同工具×2、同兴趣×2、A可供B×2、B可供A×2">
+        <viz:thickness value="2.39"/>
+        <viz:color r="88" g="128" b="170" a="0.55"/>
+      </edge>
+      <edge id="e61" source="n3" target="n9" weight="22.1" label="同口味×1、同时段×1、同学方向×1、同话题×2、同工具×2、同兴趣×1、A可供B×4、B可供A×4">
+        <viz:thickness value="2.37"/>
+        <viz:color r="89" g="128" b="170" a="0.55"/>
+      </edge>
+      <edge id="e62" source="n20" target="n21" weight="22.1" label="同MBTI×1、同学方向×1、同话题×1、同技能×2、同工具×3、同兴趣×5、A可供B×2、B可供A×2">
+        <viz:thickness value="2.37"/>
+        <viz:color r="89" g="128" b="170" a="0.55"/>
+      </edge>
+      <edge id="e63" source="n38" target="n39" weight="21.9" label="同学方向×1、同话题×2、同技能×1、同工具×2、A可供B×4、B可供A×4">
+        <viz:thickness value="2.36"/>
+        <viz:color r="89" g="128" b="170" a="0.55"/>
+      </edge>
+      <edge id="e64" source="n9" target="n32" weight="21.6" label="同乡×1、同口味×1、同时段×1、同学方向×1、同话题×3、同工具×2、同兴趣×1、A可供B×3、B可供A×3">
+        <viz:thickness value="2.34"/>
+        <viz:color r="90" g="129" b="170" a="0.55"/>
+      </edge>
+      <edge id="e65" source="n12" target="n21" weight="21.6" label="同学方向×1、同话题×2、同技能×3、同工具×3、同兴趣×3、A可供B×2、B可供A×1">
+        <viz:thickness value="2.34"/>
+        <viz:color r="90" g="129" b="170" a="0.55"/>
+      </edge>
+      <edge id="e66" source="n8" target="n23" weight="21.4" label="同乡×1、同学方向×2、同话题×2、同工具×2、同兴趣×3、A可供B×3、B可供A×2">
+        <viz:thickness value="2.33"/>
+        <viz:color r="90" g="129" b="170" a="0.55"/>
+      </edge>
+      <edge id="e67" source="n8" target="n28" weight="21.4" label="同乡×1、同学方向×1、同话题×1、同技能×1、同工具×2、同兴趣×4、A可供B×3、B可供A×3">
+        <viz:thickness value="2.33"/>
+        <viz:color r="90" g="129" b="170" a="0.55"/>
+      </edge>
+      <edge id="e68" source="n1" target="n8" weight="21.2" label="同学方向×1、同话题×1、同技能×1、同工具×1、同兴趣×4、A可供B×5、B可供A×2">
+        <viz:thickness value="2.32"/>
+        <viz:color r="91" g="129" b="170" a="0.55"/>
+      </edge>
+      <edge id="e69" source="n5" target="n10" weight="21.2" label="同口味×1、同学方向×4、同话题×3、同工具×2、同兴趣×3、A可供B×1">
+        <viz:thickness value="2.32"/>
+        <viz:color r="91" g="129" b="170" a="0.55"/>
+      </edge>
+      <edge id="e70" source="n8" target="n16" weight="21.2" label="同乡×1、同口味×1、同时段×1、同话题×2、同技能×1、同兴趣×4、A可供B×3、B可供A×4">
+        <viz:thickness value="2.32"/>
+        <viz:color r="91" g="129" b="170" a="0.55"/>
+      </edge>
+      <edge id="e71" source="n10" target="n20" weight="21.2" label="同口味×1、同学方向×1、同技能×1、同工具×2、同兴趣×3、A可供B×1、B可供A×7">
+        <viz:thickness value="2.32"/>
+        <viz:color r="91" g="129" b="170" a="0.55"/>
+      </edge>
+      <edge id="e72" source="n8" target="n34" weight="21.1" label="同乡×1、同学方向×1、同话题×1、同工具×3、同兴趣×7、A可供B×1、B可供A×3">
+        <viz:thickness value="2.32"/>
+        <viz:color r="91" g="129" b="170" a="0.55"/>
+      </edge>
+      <edge id="e73" source="n2" target="n8" weight="20.9" label="同技能×1、同工具×2、同兴趣×2、A可供B×6、B可供A×4">
+        <viz:thickness value="2.31"/>
+        <viz:color r="91" g="129" b="170" a="0.55"/>
+      </edge>
+      <edge id="e74" source="n8" target="n35" weight="20.9" label="同乡×1、同话题×2、同技能×1、同工具×2、同兴趣×2、A可供B×2、B可供A×5">
+        <viz:thickness value="2.31"/>
+        <viz:color r="91" g="129" b="170" a="0.55"/>
+      </edge>
+      <edge id="e75" source="n10" target="n31" weight="20.5" label="同乡×1、同时段×1、同学方向×2、同话题×1、同技能×1、同工具×3、同兴趣×4、A可供B×2、B可供A×1">
+        <viz:thickness value="2.28"/>
+        <viz:color r="92" g="130" b="170" a="0.55"/>
+      </edge>
+      <edge id="e76" source="n21" target="n27" weight="20.5" label="同乡×1、同时段×1、同学方向×1、同话题×1、同技能×2、同工具×3、同兴趣×6、A可供B×2">
+        <viz:thickness value="2.28"/>
+        <viz:color r="92" g="130" b="170" a="0.55"/>
+      </edge>
+      <edge id="e77" source="n12" target="n29" weight="20.1" label="同学方向×2、同话题×2、同技能×2、同工具×3、同兴趣×1、A可供B×2、B可供A×1">
+        <viz:thickness value="2.26"/>
+        <viz:color r="93" g="130" b="170" a="0.55"/>
+      </edge>
+      <edge id="e78" source="n10" target="n19" weight="20.0" label="同星座×1、同口味×1、同学方向×2、同话题×2、同技能×2、同工具×2、同兴趣×3、B可供A×2">
+        <viz:thickness value="2.26"/>
+        <viz:color r="93" g="130" b="170" a="0.55"/>
+      </edge>
+      <edge id="e79" source="n8" target="n33" weight="19.9" label="同乡×1、同口味×1、同时段×1、同话题×1、同技能×1、同工具×1、同兴趣×5、A可供B×3、B可供A×3">
+        <viz:thickness value="2.25"/>
+        <viz:color r="93" g="131" b="170" a="0.55"/>
+      </edge>
+      <edge id="e80" source="n9" target="n16" weight="19.9" label="同乡×1、同时段×1、同话题×3、同技能×1、同兴趣×1、A可供B×3、B可供A×4">
+        <viz:thickness value="2.25"/>
+        <viz:color r="93" g="131" b="170" a="0.55"/>
+      </edge>
+      <edge id="e81" source="n8" target="n31" weight="19.8" label="同乡×1、同口味×1、同时段×1、同学方向×1、同话题×1、同技能×1、同工具×3、同兴趣×2、A可供B×4、B可供A×1">
+        <viz:thickness value="2.25"/>
+        <viz:color r="94" g="131" b="170" a="0.55"/>
+      </edge>
+      <edge id="e82" source="n2" target="n39" weight="19.6" label="同学方向×1、同技能×2、同工具×3、同兴趣×2、A可供B×4、B可供A×2">
+        <viz:thickness value="2.23"/>
+        <viz:color r="94" g="131" b="170" a="0.55"/>
+      </edge>
+      <edge id="e83" source="n10" target="n25" weight="19.6" label="同学方向×2、同话题×1、同技能×1、同工具×3、同兴趣×1、A可供B×3、B可供A×2">
+        <viz:thickness value="2.23"/>
+        <viz:color r="94" g="131" b="170" a="0.55"/>
+      </edge>
+      <edge id="e84" source="n21" target="n23" weight="19.6" label="同乡×1、同学方向×1、同话题×2、同技能×2、同工具×3、同兴趣×2、A可供B×2、B可供A×1">
+        <viz:thickness value="2.23"/>
+        <viz:color r="94" g="131" b="170" a="0.55"/>
+      </edge>
+      <edge id="e85" source="n11" target="n38" weight="19.5" label="同乡×1、同星座×1、同口味×1、同学方向×1、同话题×1、同技能×1、同工具×2、A可供B×6、B可供A×1">
+        <viz:thickness value="2.23"/>
+        <viz:color r="94" g="131" b="170" a="0.55"/>
+      </edge>
+      <edge id="e86" source="n4" target="n9" weight="19.4" label="同乡×1、同口味×1、同话题×1、同技能×1、同工具×3、同兴趣×1、A可供B×4、B可供A×3">
+        <viz:thickness value="2.22"/>
+        <viz:color r="95" g="131" b="170" a="0.55"/>
+      </edge>
+      <edge id="e87" source="n3" target="n8" weight="19.3" label="同时段×1、同话题×1、同工具×2、同兴趣×4、A可供B×4、B可供A×3">
+        <viz:thickness value="2.22"/>
+        <viz:color r="95" g="131" b="170" a="0.55"/>
+      </edge>
+      <edge id="e88" source="n2" target="n10" weight="19.1" label="同技能×1、同工具×3、同兴趣×2、A可供B×6、B可供A×2">
+        <viz:thickness value="2.21"/>
+        <viz:color r="95" g="132" b="170" a="0.55"/>
+      </edge>
+      <edge id="e89" source="n10" target="n33" weight="19.1" label="同乡×1、同时段×1、同话题×1、同技能×1、同工具×1、同兴趣×6、A可供B×2、B可供A×3">
+        <viz:thickness value="2.21"/>
+        <viz:color r="95" g="132" b="170" a="0.55"/>
+      </edge>
+      <edge id="e90" source="n12" target="n31" weight="19.1" label="同话题×1、同技能×2、同工具×3、同兴趣×3、A可供B×5">
+        <viz:thickness value="2.21"/>
+        <viz:color r="95" g="132" b="170" a="0.55"/>
+      </edge>
+      <edge id="e91" source="n22" target="n31" weight="19.1" label="同MBTI×1、同学方向×1、同技能×1、同工具×3、同兴趣×4、A可供B×5">
+        <viz:thickness value="2.21"/>
+        <viz:color r="95" g="132" b="170" a="0.55"/>
+      </edge>
+      <edge id="e92" source="n22" target="n39" weight="19.1" label="同学方向×2、同话题×2、同技能×1、同工具×3、同兴趣×3、A可供B×1、B可供A×1">
+        <viz:thickness value="2.21"/>
+        <viz:color r="95" g="132" b="170" a="0.55"/>
+      </edge>
+      <edge id="e93" source="n6" target="n21" weight="19.0" label="同乡×1、同时段×1、同学方向×1、同话题×2、同技能×1、同工具×3、同兴趣×4、B可供A×2">
+        <viz:thickness value="2.20"/>
+        <viz:color r="96" g="132" b="170" a="0.55"/>
+      </edge>
+      <edge id="e94" source="n0" target="n15" weight="18.9" label="同口味×1、同学方向×1、同话题×3、同技能×1、同工具×3、同兴趣×1、A可供B×2、B可供A×1">
+        <viz:thickness value="2.20"/>
+        <viz:color r="96" g="132" b="170" a="0.55"/>
+      </edge>
+      <edge id="e95" source="n7" target="n39" weight="18.9" label="同口味×1、同学方向×1、同话题×1、同工具×3、同兴趣×2、A可供B×4、B可供A×2">
+        <viz:thickness value="2.20"/>
+        <viz:color r="96" g="132" b="170" a="0.55"/>
+      </edge>
+      <edge id="e96" source="n19" target="n21" weight="18.9" label="同学方向×2、同话题×2、同技能×2、同工具×2、同兴趣×4、B可供A×1">
+        <viz:thickness value="2.20"/>
+        <viz:color r="96" g="132" b="170" a="0.55"/>
+      </edge>
+      <edge id="e97" source="n6" target="n9" weight="18.8" label="同乡×1、同口味×1、同时段×1、同话题×3、同工具×3、同兴趣×2、A可供B×1、B可供A×3">
+        <viz:thickness value="2.19"/>
+        <viz:color r="96" g="132" b="170" a="0.55"/>
+      </edge>
+      <edge id="e98" source="n12" target="n22" weight="18.8" label="同时段×1、同话题×1、同技能×2、同工具×2、同兴趣×5、A可供B×3、B可供A×1">
+        <viz:thickness value="2.19"/>
+        <viz:color r="96" g="132" b="170" a="0.55"/>
+      </edge>
+      <edge id="e99" source="n21" target="n34" weight="18.8" label="同乡×1、同学方向×1、同话题×1、同工具×4、同兴趣×5、A可供B×1、B可供A×2">
+        <viz:thickness value="2.19"/>
+        <viz:color r="96" g="132" b="170" a="0.55"/>
+      </edge>
+      <edge id="e100" source="n1" target="n10" weight="18.7" label="同口味×1、同学方向×1、同技能×1、同工具×2、同兴趣×2、A可供B×5、B可供A×2">
+        <viz:thickness value="2.18"/>
+        <viz:color r="96" g="132" b="170" a="0.55"/>
+      </edge>
+      <edge id="e101" source="n5" target="n9" weight="18.7" label="同口味×1、同话题×5、同工具×2、同兴趣×3、A可供B×1、B可供A×1">
+        <viz:thickness value="2.18"/>
+        <viz:color r="96" g="132" b="170" a="0.55"/>
+      </edge>
+      <edge id="e102" source="n9" target="n37" weight="18.7" label="同星座×1、同口味×1、同学方向×1、同话题×2、同工具×3、同兴趣×1、A可供B×3、B可供A×2">
+        <viz:thickness value="2.18"/>
+        <viz:color r="96" g="132" b="170" a="0.55"/>
+      </edge>
+      <edge id="e103" source="n8" target="n25" weight="18.6" label="同学方向×2、同技能×1、同工具×3、同兴趣×2、A可供B×3、B可供A×2">
+        <viz:thickness value="2.18"/>
+        <viz:color r="96" g="132" b="170" a="0.55"/>
+      </edge>
+      <edge id="e104" source="n20" target="n24" weight="18.6" label="同口味×1、同时段×1、同学方向×1、同话题×2、同技能×1、同工具×2、同兴趣×2、A可供B×3、B可供A×1">
+        <viz:thickness value="2.18"/>
+        <viz:color r="96" g="132" b="170" a="0.55"/>
+      </edge>
+      <edge id="e105" source="n20" target="n38" weight="18.6" label="同MBTI×1、同口味×1、同时段×1、同学方向×1、同技能×1、同工具×2、同兴趣×1、A可供B×7">
+        <viz:thickness value="2.18"/>
+        <viz:color r="96" g="132" b="170" a="0.55"/>
+      </edge>
+      <edge id="e106" source="n24" target="n39" weight="18.6" label="同乡×1、同学方向×1、同话题×2、同技能×1、同工具×3、同兴趣×1、A可供B×2、B可供A×2">
+        <viz:thickness value="2.18"/>
+        <viz:color r="96" g="132" b="170" a="0.55"/>
+      </edge>
+      <edge id="e107" source="n35" target="n39" weight="18.6" label="同MBTI×1、同学方向×2、同话题×2、同技能×1、同工具×3、同兴趣×2、A可供B×2">
+        <viz:thickness value="2.18"/>
+        <viz:color r="96" g="132" b="170" a="0.55"/>
+      </edge>
+      <edge id="e108" source="n9" target="n28" weight="18.4" label="同乡×1、同学方向×1、同话题×1、同工具×2、同兴趣×1、A可供B×4、B可供A×3">
+        <viz:thickness value="2.17"/>
+        <viz:color r="97" g="132" b="170" a="0.55"/>
+      </edge>
+      <edge id="e109" source="n10" target="n35" weight="18.4" label="同乡×1、同口味×1、同话题×1、同工具×3、同兴趣×3、A可供B×1、B可供A×5">
+        <viz:thickness value="2.17"/>
+        <viz:color r="97" g="132" b="170" a="0.55"/>
+      </edge>
+      <edge id="e110" source="n6" target="n8" weight="18.3" label="同乡×1、同时段×1、同学方向×1、同话题×2、同工具×2、同兴趣×3、A可供B×1、B可供A×3">
+        <viz:thickness value="2.16"/>
+        <viz:color r="97" g="132" b="170" a="0.55"/>
+      </edge>
+      <edge id="e111" source="n21" target="n25" weight="18.3" label="同学方向×1、同话题×1、同技能×2、同工具×4、同兴趣×2、A可供B×3">
+        <viz:thickness value="2.16"/>
+        <viz:color r="97" g="132" b="170" a="0.55"/>
+      </edge>
+      <edge id="e112" source="n0" target="n1" weight="18.2" label="同口味×1、同学方向×1、同话题×2、同技能×2、同工具×2、同兴趣×2、A可供B×2、B可供A×1">
+        <viz:thickness value="2.15"/>
+        <viz:color r="97" g="133" b="170" a="0.55"/>
+      </edge>
+      <edge id="e113" source="n8" target="n15" weight="18.2" label="同乡×1、同星座×1、同话题×2、同工具×2、同兴趣×2、A可供B×4、B可供A×2">
+        <viz:thickness value="2.15"/>
+        <viz:color r="97" g="133" b="170" a="0.55"/>
+      </edge>
+      <edge id="e114" source="n3" target="n10" weight="18.1" label="同口味×1、同时段×1、同技能×1、同工具×2、同兴趣×3、A可供B×4、B可供A×3">
+        <viz:thickness value="2.15"/>
+        <viz:color r="98" g="133" b="170" a="0.55"/>
+      </edge>
+      <edge id="e115" source="n23" target="n29" weight="18.1" label="同学方向×2、同话题×2、同技能×2、同工具×3、同兴趣×2、B可供A×1">
+        <viz:thickness value="2.15"/>
+        <viz:color r="98" g="133" b="170" a="0.55"/>
+      </edge>
+      <edge id="e116" source="n11" target="n39" weight="18.0" label="同时段×1、同学方向×1、同话题×2、同技能×1、同工具×3、同兴趣×2、A可供B×3">
+        <viz:thickness value="2.14"/>
+        <viz:color r="98" g="133" b="170" a="0.55"/>
+      </edge>
+      <edge id="e117" source="n12" target="n38" weight="18.0" label="同口味×1、同话题×1、同技能×1、同工具×1、同兴趣×1、A可供B×8">
+        <viz:thickness value="2.14"/>
+        <viz:color r="98" g="133" b="170" a="0.55"/>
+      </edge>
+      <edge id="e118" source="n0" target="n20" weight="17.9" label="同口味×1、同话题×3、同技能×2、同工具×3、同兴趣×2、A可供B×1、B可供A×1">
+        <viz:thickness value="2.14"/>
+        <viz:color r="98" g="133" b="170" a="0.55"/>
+      </edge>
+      <edge id="e119" source="n9" target="n36" weight="17.9" label="同口味×1、同学方向×1、同话题×1、同技能×1、同工具×3、同兴趣×1、A可供B×2、B可供A×3">
+        <viz:thickness value="2.14"/>
+        <viz:color r="98" g="133" b="170" a="0.55"/>
+      </edge>
+      <edge id="e120" source="n10" target="n24" weight="17.9" label="同MBTI×1、同口味×1、同话题×1、同工具×3、同兴趣×1、A可供B×2、B可供A×5">
+        <viz:thickness value="2.14"/>
+        <viz:color r="98" g="133" b="170" a="0.55"/>
+      </edge>
+      <edge id="e121" source="n22" target="n38" weight="17.9" label="同话题×1、同工具×2、A可供B×6、B可供A×3">
+        <viz:thickness value="2.14"/>
+        <viz:color r="98" g="133" b="170" a="0.55"/>
+      </edge>
+      <edge id="e122" source="n29" target="n41" weight="17.9" label="同学方向×1、同话题×3、同技能×2、同工具×2、同兴趣×3、B可供A×1">
+        <viz:thickness value="2.14"/>
+        <viz:color r="98" g="133" b="170" a="0.55"/>
+      </edge>
+      <edge id="e123" source="n8" target="n18" weight="17.7" label="同乡×1、同学方向×2、同话题×1、同技能×1、同工具×1、同兴趣×4、A可供B×2、B可供A×1">
+        <viz:thickness value="2.13"/>
+        <viz:color r="98" g="133" b="170" a="0.55"/>
+      </edge>
+      <edge id="e124" source="n11" target="n31" weight="17.7" label="同乡×1、同时段×1、同话题×1、同技能×1、同工具×4、同兴趣×1、A可供B×5">
+        <viz:thickness value="2.13"/>
+        <viz:color r="98" g="133" b="170" a="0.55"/>
+      </edge>
+      <edge id="e125" source="n21" target="n28" weight="17.6" label="同乡×1、同学方向×1、同技能×2、同工具×3、同兴趣×4、A可供B×2、B可供A×1">
+        <viz:thickness value="2.12"/>
+        <viz:color r="99" g="133" b="170" a="0.55"/>
+      </edge>
+      <edge id="e126" source="n24" target="n38" weight="17.6" label="同口味×1、同时段×1、同学方向×2、同工具×2、A可供B×5、B可供A×2">
+        <viz:thickness value="2.12"/>
+        <viz:color r="99" g="133" b="170" a="0.55"/>
+      </edge>
+      <edge id="e127" source="n8" target="n32" weight="17.5" label="同乡×1、同时段×1、同学方向×1、同话题×1、同工具×3、A可供B×3、B可供A×3">
+        <viz:thickness value="2.11"/>
+        <viz:color r="99" g="133" b="170" a="0.55"/>
+      </edge>
+      <edge id="e128" source="n5" target="n39" weight="17.4" label="同学方向×3、同话题×3、同工具×2、同兴趣×3">
+        <viz:thickness value="2.11"/>
+        <viz:color r="99" g="134" b="171" a="0.55"/>
+      </edge>
+      <edge id="e129" source="n8" target="n19" weight="17.4" label="同学方向×1、同话题×2、同技能×1、同工具×2、同兴趣×3、A可供B×1、B可供A×2">
+        <viz:thickness value="2.11"/>
+        <viz:color r="99" g="134" b="171" a="0.55"/>
+      </edge>
+      <edge id="e130" source="n9" target="n23" weight="17.4" label="同乡×1、同口味×1、同话题×2、同技能×1、同工具×3、A可供B×3、B可供A×2">
+        <viz:thickness value="2.11"/>
+        <viz:color r="99" g="134" b="171" a="0.55"/>
+      </edge>
+      <edge id="e131" source="n9" target="n40" weight="17.4" label="同口味×1、同时段×1、同话题×2、同技能×1、同工具×1、同兴趣×1、A可供B×2、B可供A×4">
+        <viz:thickness value="2.11"/>
+        <viz:color r="99" g="134" b="171" a="0.55"/>
+      </edge>
+      <edge id="e132" source="n10" target="n28" weight="17.4" label="同乡×1、同学方向×1、同技能×1、同工具×2、同兴趣×2、A可供B×3、B可供A×3">
+        <viz:thickness value="2.11"/>
+        <viz:color r="99" g="134" b="171" a="0.55"/>
+      </edge>
+      <edge id="e133" source="n22" target="n41" weight="17.3" label="同时段×1、同学方向×2、同话题×1、同技能×1、同工具×2、同兴趣×4、A可供B×1、B可供A×1">
+        <viz:thickness value="2.10"/>
+        <viz:color r="99" g="134" b="171" a="0.55"/>
+      </edge>
+      <edge id="e134" source="n9" target="n13" weight="17.1" label="同MBTI×1、同话题×1、同技能×2、同工具×3、同兴趣×2、A可供B×3、B可供A×1">
+        <viz:thickness value="2.09"/>
+        <viz:color r="100" g="134" b="171" a="0.55"/>
+      </edge>
+      <edge id="e135" source="n15" target="n39" weight="17.1" label="同学方向×2、同话题×2、同技能×1、同工具×3、同兴趣×1、A可供B×1、B可供A×1">
+        <viz:thickness value="2.09"/>
+        <viz:color r="100" g="134" b="171" a="0.55"/>
+      </edge>
+      <edge id="e136" source="n20" target="n29" weight="17.1" label="同学方向×1、同话题×2、同技能×1、同工具×3、同兴趣×3、A可供B×2">
+        <viz:thickness value="2.09"/>
+        <viz:color r="100" g="134" b="171" a="0.55"/>
+      </edge>
+      <edge id="e137" source="n20" target="n34" weight="17.1" label="同学方向×1、同话题×1、同技能×1、同工具×3、同兴趣×5、A可供B×1、B可供A×1">
+        <viz:thickness value="2.09"/>
+        <viz:color r="100" g="134" b="171" a="0.55"/>
+      </edge>
+      <edge id="e138" source="n21" target="n32" weight="17.0" label="同乡×1、同时段×1、同学方向×1、同话题×1、同技能×2、同工具×3、同兴趣×1、A可供B×2、B可供A×1">
+        <viz:thickness value="2.08"/>
+        <viz:color r="100" g="134" b="171" a="0.55"/>
+      </edge>
+      <edge id="e139" source="n27" target="n29" weight="17.0" label="同时段×1、同学方向×1、同话题×2、同技能×1、同工具×3、同兴趣×4、B可供A×1">
+        <viz:thickness value="2.08"/>
+        <viz:color r="100" g="134" b="171" a="0.55"/>
+      </edge>
+      <edge id="e140" source="n1" target="n39" weight="16.9" label="同MBTI×1、同学方向×2、同话题×1、同技能×2、同工具×2、同兴趣×2、A可供B×2">
+        <viz:thickness value="2.08"/>
+        <viz:color r="100" g="134" b="171" a="0.55"/>
+      </edge>
+      <edge id="e141" source="n7" target="n21" weight="16.9" label="同口味×1、同学方向×1、同技能×3、同工具×3、同兴趣×5、B可供A×1">
+        <viz:thickness value="2.08"/>
+        <viz:color r="100" g="134" b="171" a="0.55"/>
+      </edge>
+      <edge id="e142" source="n10" target="n23" weight="16.9" label="同乡×1、同口味×1、同学方向×1、同话题×1、同技能×1、同工具×3、同兴趣×1、A可供B×2、B可供A×2">
+        <viz:thickness value="2.08"/>
+        <viz:color r="100" g="134" b="171" a="0.55"/>
+      </edge>
+      <edge id="e143" source="n29" target="n38" weight="16.9" label="同学方向×1、同话题×1、同技能×1、同工具×2、A可供B×5、B可供A×1">
+        <viz:thickness value="2.08"/>
+        <viz:color r="100" g="134" b="171" a="0.55"/>
+      </edge>
+      <edge id="e144" source="n31" target="n39" weight="16.8" label="同口味×1、同时段×1、同学方向×2、同话题×1、同工具×3、同兴趣×2、B可供A×3">
+        <viz:thickness value="2.07"/>
+        <viz:color r="101" g="134" b="171" a="0.55"/>
+      </edge>
+      <edge id="e145" source="n3" target="n38" weight="16.7" label="同口味×1、同学方向×2、同工具×2、同兴趣×1、A可供B×4、B可供A×2">
+        <viz:thickness value="2.07"/>
+        <viz:color r="101" g="134" b="171" a="0.55"/>
+      </edge>
+      <edge id="e146" source="n9" target="n33" weight="16.6" label="同乡×1、同时段×1、同话题×1、同工具×1、同兴趣×2、A可供B×4、B可供A×3">
+        <viz:thickness value="2.06"/>
+        <viz:color r="101" g="134" b="171" a="0.55"/>
+      </edge>
+      <edge id="e147" source="n35" target="n38" weight="16.6" label="同乡×1、同口味×1、同时段×1、同学方向×1、同话题×1、同工具×2、A可供B×5、B可供A×1">
+        <viz:thickness value="2.06"/>
+        <viz:color r="101" g="134" b="171" a="0.55"/>
+      </edge>
+      <edge id="e148" source="n5" target="n41" weight="16.5" label="同口味×1、同学方向×3、同话题×2、同工具×1、同兴趣×2、A可供B×1、B可供A×1">
+        <viz:thickness value="2.05"/>
+        <viz:color r="101" g="135" b="171" a="0.55"/>
+      </edge>
+      <edge id="e149" source="n0" target="n24" weight="16.4" label="同口味×1、同学方向×1、同话题×2、同技能×1、同工具×3、同兴趣×2、A可供B×1、B可供A×1">
+        <viz:thickness value="2.05"/>
+        <viz:color r="102" g="135" b="171" a="0.55"/>
+      </edge>
+      <edge id="e150" source="n8" target="n13" weight="16.4" label="同MBTI×1、同学方向×1、同技能×2、同工具×2、同兴趣×4、A可供B×2、B可供A×1">
+        <viz:thickness value="2.05"/>
+        <viz:color r="102" g="135" b="171" a="0.55"/>
+      </edge>
+      <edge id="e151" source="n8" target="n36" weight="16.4" label="同话题×1、同技能×1、同工具×2、同兴趣×3、A可供B×2、B可供A×3">
+        <viz:thickness value="2.05"/>
+        <viz:color r="102" g="135" b="171" a="0.55"/>
+      </edge>
+      <edge id="e152" source="n10" target="n36" weight="16.4" label="同口味×1、同话题×1、同工具×3、同兴趣×3、A可供B×2、B可供A×3">
+        <viz:thickness value="2.05"/>
+        <viz:color r="102" g="135" b="171" a="0.55"/>
+      </edge>
+      <edge id="e153" source="n11" target="n20" weight="16.4" label="同口味×1、同学方向×2、同话题×1、同技能×1、同工具×3、同兴趣×2、A可供B×1、B可供A×1">
+        <viz:thickness value="2.05"/>
+        <viz:color r="102" g="135" b="171" a="0.55"/>
+      </edge>
+      <edge id="e154" source="n20" target="n27" weight="16.4" label="同口味×1、同学方向×1、同话题×1、同技能×2、同工具×3、同兴趣×4、A可供B×1">
+        <viz:thickness value="2.05"/>
+        <viz:color r="102" g="135" b="171" a="0.55"/>
+      </edge>
+      <edge id="e155" source="n20" target="n35" weight="16.4" label="同星座×1、同口味×1、同时段×1、同学方向×1、同话题×2、同技能×3、同工具×2、同兴趣×1、A可供B×1">
+        <viz:thickness value="2.05"/>
+        <viz:color r="102" g="135" b="171" a="0.55"/>
+      </edge>
+      <edge id="e156" source="n28" target="n29" weight="16.4" label="同口味×1、同学方向×1、同话题×1、同技能×1、同工具×3、同兴趣×4、A可供B×1、B可供A×1">
+        <viz:thickness value="2.05"/>
+        <viz:color r="102" g="135" b="171" a="0.55"/>
+      </edge>
+      <edge id="e157" source="n6" target="n10" weight="16.3" label="同乡×1、同口味×1、同时段×1、同学方向×1、同话题×1、同工具×3、同兴趣×3、A可供B×1、B可供A×2">
+        <viz:thickness value="2.04"/>
+        <viz:color r="102" g="135" b="171" a="0.55"/>
+      </edge>
+      <edge id="e158" source="n7" target="n38" weight="16.3" label="同时段×1、同学方向×1、同技能×1、同工具×2、同兴趣×1、A可供B×5、B可供A×1">
+        <viz:thickness value="2.04"/>
+        <viz:color r="102" g="135" b="171" a="0.55"/>
+      </edge>
+      <edge id="e159" source="n9" target="n30" weight="16.3" label="同乡×1、同口味×1、同时段×1、同话题×2、同工具×3、同兴趣×3、A可供B×1、B可供A×2">
+        <viz:thickness value="2.04"/>
+        <viz:color r="102" g="135" b="171" a="0.55"/>
+      </edge>
+      <edge id="e160" source="n5" target="n6" weight="16.2" label="同口味×1、同学方向×2、同话题×3、同工具×2、同兴趣×2、A可供B×1">
+        <viz:thickness value="2.04"/>
+        <viz:color r="102" g="135" b="171" a="0.55"/>
+      </edge>
+      <edge id="e161" source="n9" target="n19" weight="16.2" label="同口味×1、同话题×2、同技能×1、同工具×2、同兴趣×2、A可供B×2、B可供A×2">
+        <viz:thickness value="2.04"/>
+        <viz:color r="102" g="135" b="171" a="0.55"/>
+      </edge>
+      <edge id="e162" source="n15" target="n20" weight="16.2" label="同口味×1、同学方向×1、同话题×3、同技能×1、同工具×2、同兴趣×1、B可供A×2">
+        <viz:thickness value="2.04"/>
+        <viz:color r="102" g="135" b="171" a="0.55"/>
+      </edge>
+      <edge id="e163" source="n9" target="n25" weight="16.1" label="同话题×1、同技能×1、同工具×3、A可供B×4、B可供A×2">
+        <viz:thickness value="2.03"/>
+        <viz:color r="102" g="135" b="171" a="0.55"/>
+      </edge>
+      <edge id="e164" source="n20" target="n28" weight="16.1" label="同星座×1、同时段×1、同学方向×1、同话题×1、同技能×3、同工具×2、同兴趣×3、A可供B×1">
+        <viz:thickness value="2.03"/>
+        <viz:color r="102" g="135" b="171" a="0.55"/>
+      </edge>
+      <edge id="e165" source="n21" target="n30" weight="16.0" label="同乡×1、同时段×1、同话题×2、同工具×3、同兴趣×6、A可供B×1">
+        <viz:thickness value="2.02"/>
+        <viz:color r="102" g="135" b="171" a="0.55"/>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
